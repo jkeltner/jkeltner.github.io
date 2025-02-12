@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Flying Drones with Code | Jeff Keltner</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="Flying Drones with Code" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="I have been trying to get my son more interested in coding. He is very interested in engineering and building (we have more Legos than I can count), and has expressed interest in learning to code; but each time he actually gets into coding itself his interest seems to wane. I think it’s just hard to get excited about something that only happens on the screen for him. He’s 8 years old and loves to interact with things in the physical world. So, when I saw in his school newsletter that another Dad had come into the 5th grade science class and flown a drone through Python, I reached out to see how. What could make coding more exciting than having your code fly a done?!?!" />
+<meta property="og:description" content="I have been trying to get my son more interested in coding. He is very interested in engineering and building (we have more Legos than I can count), and has expressed interest in learning to code; but each time he actually gets into coding itself his interest seems to wane. I think it’s just hard to get excited about something that only happens on the screen for him. He’s 8 years old and loves to interact with things in the physical world. So, when I saw in his school newsletter that another Dad had come into the 5th grade science class and flown a drone through Python, I reached out to see how. What could make coding more exciting than having your code fly a done?!?!" />
+<link rel="canonical" href="http://localhost:4000/2018/01/22/flying-drones-with-code.html" />
+<meta property="og:url" content="http://localhost:4000/2018/01/22/flying-drones-with-code.html" />
+<meta property="og:site_name" content="Jeff Keltner" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2018-01-22T00:00:00-08:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Flying Drones with Code" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2018-01-22T00:00:00-08:00","datePublished":"2018-01-22T00:00:00-08:00","description":"I have been trying to get my son more interested in coding. He is very interested in engineering and building (we have more Legos than I can count), and has expressed interest in learning to code; but each time he actually gets into coding itself his interest seems to wane. I think it’s just hard to get excited about something that only happens on the screen for him. He’s 8 years old and loves to interact with things in the physical world. So, when I saw in his school newsletter that another Dad had come into the 5th grade science class and flown a drone through Python, I reached out to see how. What could make coding more exciting than having your code fly a done?!?!","headline":"Flying Drones with Code","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2018/01/22/flying-drones-with-code.html"},"url":"http://localhost:4000/2018/01/22/flying-drones-with-code.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Jeff Keltner" />
+</head>
+<body><header class="site-header">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Jeff Keltner</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about/">About</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Flying Drones with Code</h1>
+    <p class="post-meta"><time class="dt-published" datetime="2018-01-22T00:00:00-08:00" itemprop="datePublished">
+        Jan 22, 2018
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p>I have been trying to get my son more interested in coding. He is very
+interested in engineering and building (we have more Legos than I can count),
+and has expressed interest in learning to code; but each time he actually gets
+into coding itself his interest seems to wane. I think it’s just hard to get
+excited about something that only happens on the screen for him. He’s 8 years
+old and loves to interact with things in the physical world. So, when I saw in
+his school newsletter that another Dad had come into the 5th grade science
+class and flown a drone through Python, I reached out to see how. What could
+make coding more exciting than having your code fly a done?!?!</p>
+
+<p>Sam Pfister (the Dad in question) quickly responded and pointed me to all the
+pieces needed to do this. I followed his suggestions and got this working
+pretty quickly after a bit of trial and error. Every friend my son has had
+over since setting this up has ended up coding some Python to fly the drone.
+It’s not a master class in coding — but it is getting them very interested in
+how the code works and familiar with programming concepts. I love the idea
+that they are learning by doing, instead of having to teach them about
+functions, objects, variable, etc. They doing something real — and we pick up
+the rest along the way.</p>
+
+<p>In case you would be interested in a similar set up, I wanted to share how I
+got this going. It’s pretty straight-forward, though it’s not drop-dead easy.
+Here’s what I’m using.</p>
+
+<ul>
+  <li><strong>The drone.</strong> The drone is a simple Parrot Mambo. I picked mine up <a href="https://www.amazon.com/Parrot-Minidrone-Accessories-Certified-Refurbished/dp/B071NRZ5LX/">refurbished on Amazon</a>. Sam told me it has “very good lateral and altitude stability”, which make it easier to fly. It also come with a claw that can be used to pick up objects and a gun that shoots small balls. Both programmable.</li>
+  <li><strong>The controller.</strong> If you get this basic version of the drone, you have to connect to it over Bluetooth. Apparently the Python libraries for Bluetooth are not great on Mac OS. So I’m unable to control the drone directly from my laptop. This has made it a bit tricky, but workable. If you get the Mambo with the FPV camera or the Bebop, you can control it over Wifi which may work directly from the Mac. If you get that working, let me know! Instead, I bought an inexpensive <a href="https://www.amazon.com/CanaKit-Raspberry-Complete-Starter-Kit/dp/B01C6Q2GSY/">Raspberry Pi kit</a>. The basic setup is working just fine for controlling the drone, but it does require using SSH and SFTP in order to send commands to the drone.</li>
+  <li><strong>The drone library.</strong> The most important thing Sam pointed me to was the code library for controlling the drone: <a href="https://github.com/amymcgovern/pyparrot">https://github.com/amymcgovern/pyparrot</a>. I’ve never met or spoken with Amy McGovern, but thank you Amy for building this library. It’s specifically targeted at K12 students — which means it’s just my speed. My son has been able to follow here examples and execute some basic commands.</li>
+</ul>
+
+<p>With those simple pieces, and following the directions in the code library, I
+got the drone set up in an hour or so and flying in the same day. I even found
+a nice Extension for Visual Studio Code called -SFTP- that lets me edit files
+over FTP, so we can use the Mac as our editor and allow the Raspberry Pi to
+run headless. It’s a pretty easy thing to set up — and so far I’m loving it.</p>
+
+<p>At this point, my son has use the drone to pick up several objects, fly them
+across the room, drop them into a box and return the drone home. I’m hoping to
+add more complex flight patterns to the mix — and since you can directly
+control roll, pitch, and yaw; it should be a great chance to talk about the
+basics of flight as well!</p>
+
+<p>I take no credit for any of the above working. I was just lucky to be pointed
+to some fabulous resources that have been wonderful tools for getting my son
+interested in writing some code and I wanted to share them. If you get a
+similar set up working — let me know! I’m looking forward to seeing what we
+can do with this project over time!</p>
+
+
+  </div><a class="u-url" href="/2018/01/22/flying-drones-with-code.html" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <p class="feed-subscribe">
+          <a href="http://localhost:4000/feed.xml">
+            <svg class="svg-icon orange">
+              <use xlink:href="/assets/minima-social-icons.svg#rss"></use>
+            </svg><span>Subscribe</span>
+          </a>
+        </p>
+        <ul class="contact-list">
+          
+        </ul>
+      </div>
+      <div class="footer-col">
+        <p>Maker-of-trouble, stirrer-of-pots. I write about whatever comes to mind, but mostly about AI, technology, and policy.
+</p>
+      </div>
+    </div>
+
+    <div class="social-links"><ul class="social-media-list"><li>
+  <a rel="me" href="https://www.linkedin.com/in/jeffkeltner" target="_blank" title="linkedin">
+    <svg class="svg-icon grey">
+      <use xlink:href="/assets/minima-social-icons.svg#linkedin"></use>
+    </svg>
+  </a>
+</li>
+<li>
+  <a rel="me" href="https://x.com/jkeltner" target="_blank" title="x">
+    <svg class="svg-icon grey">
+      <use xlink:href="/assets/minima-social-icons.svg#x"></use>
+    </svg>
+  </a>
+</li>
+<li>
+  <a rel="me" href="https://github.com/jkeltner/" target="_blank" title="github">
+    <svg class="svg-icon grey">
+      <use xlink:href="/assets/minima-social-icons.svg#github"></use>
+    </svg>
+  </a>
+</li>
+</ul>
+</div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>

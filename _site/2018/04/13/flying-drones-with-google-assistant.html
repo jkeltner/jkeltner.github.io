@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Flying Drones with Google Assistant | Jeff Keltner</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="Flying Drones with Google Assistant" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="I’m glad so many people enjoyed my post on Flying Drones with Code. A few people at Upstart enjoyed the post and asked me to come and present the drone coding experience at one of our lunch ‘n learn sessions in the office. This turned out to be a lot of fun (you can see a quick video of our final result here…). However, one of my colleagues said she was bringing her kids in to see the project — and that they already tried the basics but wanted to “learn from the pro.”" />
+<meta property="og:description" content="I’m glad so many people enjoyed my post on Flying Drones with Code. A few people at Upstart enjoyed the post and asked me to come and present the drone coding experience at one of our lunch ‘n learn sessions in the office. This turned out to be a lot of fun (you can see a quick video of our final result here…). However, one of my colleagues said she was bringing her kids in to see the project — and that they already tried the basics but wanted to “learn from the pro.”" />
+<link rel="canonical" href="http://localhost:4000/2018/04/13/flying-drones-with-google-assistant.html" />
+<meta property="og:url" content="http://localhost:4000/2018/04/13/flying-drones-with-google-assistant.html" />
+<meta property="og:site_name" content="Jeff Keltner" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2018-04-13T00:00:00-07:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Flying Drones with Google Assistant" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2018-04-13T00:00:00-07:00","datePublished":"2018-04-13T00:00:00-07:00","description":"I’m glad so many people enjoyed my post on Flying Drones with Code. A few people at Upstart enjoyed the post and asked me to come and present the drone coding experience at one of our lunch ‘n learn sessions in the office. This turned out to be a lot of fun (you can see a quick video of our final result here…). However, one of my colleagues said she was bringing her kids in to see the project — and that they already tried the basics but wanted to “learn from the pro.”","headline":"Flying Drones with Google Assistant","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2018/04/13/flying-drones-with-google-assistant.html"},"url":"http://localhost:4000/2018/04/13/flying-drones-with-google-assistant.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Jeff Keltner" />
+</head>
+<body><header class="site-header">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Jeff Keltner</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about/">About</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Flying Drones with Google Assistant</h1>
+    <p class="post-meta"><time class="dt-published" datetime="2018-04-13T00:00:00-07:00" itemprop="datePublished">
+        Apr 13, 2018
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p>I’m glad so many people enjoyed my post on <a href="https://medium.com/@jkeltner/flying-drones-with-code-8267a51fcb7e">Flying Drones with
+Code</a>. A
+few people at Upstart enjoyed the post and asked me to come and present the
+drone coding experience at one of our lunch ‘n learn sessions in the office.
+This turned out to be a lot of fun (you can see a <a href="https://www.linkedin.com/feed/update/urn:li:activity:6369645388609179648">quick video of our final
+result
+here</a>…).
+However, one of my colleagues said she was bringing her kids in to see the
+project — and that they already tried the basics but wanted to “learn from the
+pro.”</p>
+
+<p>Uh oh. I’m definitely not a pro — so I decided I needed to add another element
+to the original drone flying project so that we could teach the kids
+something. And the something we added, was using Google Assistant to kick off
+our drone demo. This was easier than I though — and frankly most of the
+challenges are in the networking arena — especially making sure we could get a
+static IP for my Raspberry Pi at the office. So, if you’ve ever wanted to say
+“Hey Google, launch drone demo” and see a drone take off, do some flips, and
+land— keep reading to see how we did it…</p>
+
+<h4 id="step-0-drone-setup">Step 0: Drone Setup</h4>
+
+<p>The easiest thing to do here is to <a href="https://medium.com/@jkeltner/flying-drones-with-code-8267a51fcb7e">read my original
+post</a> on
+how we set up our Mambo drone to be remotely controlled by a small Raspberry
+Pi. It’s not too complicated, but I won’t repeat it all here.</p>
+
+<h4 id="step-1-write-your-fun-drone-demo"><strong>Step 1: Write your fun drone demo</strong></h4>
+
+<p>This is the easy part. I decided that for my “drone demo” I would just have it
+do some crazy flips and then land. So, I created a simple -drone-demo.py- file
+to execute this. Here’s what I used:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>from Mambo import Mambo
+
+
+# we got this address by running 'sudo python findMambo.py'  
+mamboAddr = "YOUR MAMBO ADDRESS"
+
+
+# make a mambo object. we need to se use-wifi to false as our Mambo does not have wifi  
+my-mambo = Mambo(mamboAddr, use-wifi=False)
+
+
+# connect to our mambo drone  
+print("trying to connect")  
+success = my-mambo.connect(num-retries=3)  
+if(not success) exit()
+
+
+my-mambo.safe-takeoff(3)  
+my-mambo.fly-direct(roll=0, pitch=100, yaw=0, vertical-movement=0, duration=.5)  
+my-mambo.smart-sleep(2)  
+my-mambo.flip(direction='front')  
+my-mambo.smart-sleep(2)  
+my-mambo.flip(direction='back')  
+my-mambo.smart-sleep(2)  
+my-mambo.turn-degrees(180)  
+my-mambo.smart-sleep(2)  
+my-mambo.fly-direct(roll=0, pitch=100, yaw=0, vertical-movement=0, duration=.5)  
+my-mambo.smart-sleep(2)  
+my-mambo.turn-degrees(180)  
+my-mambo.smart-sleep(2)  
+my-mambo.safe-land(3)
+
+
+# disconnect when we are done  
+my-mambo.disconnect()
+</code></pre></div></div>
+
+<h4 id="step-2-set-up-node-red">Step 2: Set up Node-RED</h4>
+
+<p>Node RED is a simple web server really intended for IOT projects. However,
+it’s perfect for our purposes here as it allows us to accept a simple HTTP
+request on our Raspberry Pi and then execute a command. My Raspberry Pi came
+with Node-RED already installed, so I just had to run it. That was easy to do
+from my main menu bar. Once the server is running, you can open up a browser
+(I used Chromium) and head over to <a href="http://127.0.0.1:1880/">http://127.0.0.1:1880/</a>.</p>
+
+<p>You should see a screen like this:</p>
+
+<p>Node-RED allows you to build flows with inputs that cause actions. We want to
+create a flow that starts with an http request and executes a command. So,
+grab the -http- object from the <strong>Input</strong> section and drop it into the flow.
+Then grab the -exec- object from the <strong>Advanced</strong> section and add it to the
+flow as well. Finally, in order to help with any problems, grab the -debug-
+object from the <strong>Output</strong> section. You can then connect the right side of the
+-http- object to the left side of the -exec- object. I also connected the
+right side of both the -http- and -exec- objects to the left side of the
+-debug- object — so I can see any error messages (it ends up being a lot — but
+helpful). Once the flow is configured, it should look about like this:</p>
+
+<p>Now we need to configure each object. First, let’s set up the -http- object to
+accept a GET request to /drone-demo. Just double click on the object and enter
+the right values:</p>
+
+<p>Getting the exec command right is a bit harder. Here we are just trying to
+execute the proper command. However, I found that if I tried to use a relative
+location for the file it would have an error with the Mambo import. I also
+found the need to use the -nohup- command to prevent the exec module from
+stopping when I had my first smart sleep command. Here’s the command I used
+and an example of the configured screen:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>nohup python /home/ryan/pyparrot/drone-demo.py
+</code></pre></div></div>
+
+<p>Once this is all set up, you should be able to execute the drone demo by
+pinging the appropriate address:
+<a href="http://127.0.0.1:1880/">http://127.0.0.1:1880/drone-demo</a>. Check it out!</p>
+
+<h4 id="step-3-port-forwarding">Step 3: Port Forwarding</h4>
+
+<p>Now that we have a web server running and accepting requests that can execute
+our drone code, we’ve done the most interesting (and easier) part. Now we need
+to connect it up to our Google Home. First of all, we need to make our
+Raspberry Pi accessible from the public internet so that it can talk to Google
+Home. This is generally done through something called Port Forwarding — which
+allows us to take our home internet’s single public IP and tell it to route
+all requests to a specific port (in this case 1880) to a specific internal
+machine (in this case our Raspberry Pi). I configured this in my Eero setup by
+going to Network Settings -&gt; Advanced Settings -&gt; Reservations and Port
+Forwarding -&gt; Add a reservation.</p>
+
+<p>At this stage, we also need to find the public IP address for you home network
+so that we can configure the final step of the process — connecting our setup
+to Google Home.</p>
+
+<h4 id="step-4-ifttt">Step 4: IFTTT</h4>
+
+<p>IFTTT (If This Then Than) is a great tool here because it provides a pre-built
+integration into Google Home (this integration is actually why I built this
+project using Google Home and not Amazon Alexa. First, you will need to
+connect the Google Assistant service to IFTTT. This should ask you to sign in
+to your Google Account and grant access. Then switch over and choose “New
+Applet”. Your <strong>If</strong> will be Google Assistant. You will need to specify the
+words you want to use to launch the demo. I picked “execute drone demo.” It
+just sounded cool.</p>
+
+<p>You’re <strong>that</strong> will be a Web Request. You will need to point it to your
+public address with the appropriate URL and a basic GET method.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>[http://YOUR-IP-ADDRESS:1880/drone-demo](http://YOUR-ADDRESS:1880/drone-demo)
+</code></pre></div></div>
+
+<h4 id="step-5-run-the-demo">Step 5: Run the demo!</h4>
+
+<p>At this point, when you say “Hey Google, execute drone demo” — your drone
+should take off, dance around, and return to land! Of course, there’s usually
+a bunch of trouble shooting that goes along with this stage. It certainly took
+me a while to get this working — and even longer when I brought the Google
+Home into the office and had to get port forwarding working on our internal
+network! However, it worked pretty well and everyone was duly impressed</p>
+
+<h4 id="whats-next">What’s Next</h4>
+
+<p>This project was a lot of fun, but it got me thinking about what else we could
+do with our little drone project. For instance, we could have IFTTT capture
+multiple commands and be able to control the drone in real time “Hey Google,
+fly drone forward” etc. Might be fun to try out. Maybe I’ll give it a shot
+when I find a bit more free time.</p>
+
+<p>If you do decide to give this project a shot — I’d love to hear about your
+results. And if you have any difficulties getting it working, let me know and
+I’ll see if I have any advice. Enjoy!</p>
+
+
+  </div><a class="u-url" href="/2018/04/13/flying-drones-with-google-assistant.html" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <p class="feed-subscribe">
+          <a href="http://localhost:4000/feed.xml">
+            <svg class="svg-icon orange">
+              <use xlink:href="/assets/minima-social-icons.svg#rss"></use>
+            </svg><span>Subscribe</span>
+          </a>
+        </p>
+        <ul class="contact-list">
+          
+        </ul>
+      </div>
+      <div class="footer-col">
+        <p>Maker-of-trouble, stirrer-of-pots. I write about whatever comes to mind, but mostly about AI, technology, and policy.
+</p>
+      </div>
+    </div>
+
+    <div class="social-links"><ul class="social-media-list"><li>
+  <a rel="me" href="https://www.linkedin.com/in/jeffkeltner" target="_blank" title="linkedin">
+    <svg class="svg-icon grey">
+      <use xlink:href="/assets/minima-social-icons.svg#linkedin"></use>
+    </svg>
+  </a>
+</li>
+<li>
+  <a rel="me" href="https://x.com/jkeltner" target="_blank" title="x">
+    <svg class="svg-icon grey">
+      <use xlink:href="/assets/minima-social-icons.svg#x"></use>
+    </svg>
+  </a>
+</li>
+<li>
+  <a rel="me" href="https://github.com/jkeltner/" target="_blank" title="github">
+    <svg class="svg-icon grey">
+      <use xlink:href="/assets/minima-social-icons.svg#github"></use>
+    </svg>
+  </a>
+</li>
+</ul>
+</div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>

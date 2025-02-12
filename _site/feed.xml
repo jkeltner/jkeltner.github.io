@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-02-11T20:34:13-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jeff Keltner</title><subtitle>Maker-of-trouble, stirrer-of-pots. I write about whatever comes to mind, but mostly about AI, technology, and policy.
+</subtitle><author><name>{&quot;url&quot;=&gt;&quot;https://www.whattheai.fm&quot;}</name></author><entry><title type="html">3 Levels of Business Metrics</title><link href="http://localhost:4000/2024/02/27/3-levels-of-business-metrics.html" rel="alternate" type="text/html" title="3 Levels of Business Metrics" /><published>2024-02-27T00:00:00-08:00</published><updated>2024-02-27T00:00:00-08:00</updated><id>http://localhost:4000/2024/02/27/3-levels-of-business-metrics</id><content type="html" xml:base="http://localhost:4000/2024/02/27/3-levels-of-business-metrics.html"><![CDATA[<p>I’ve had a lot of conversation about OKRs — and I’ve even written down my
+thoughts on the subject a few times. I’ve also spent countless hours debating
+what the right OKRs for a company or team are. As I’ve reflected on the
+struggle to capture the right OKRs, I realize there is really a significant
+tension between metrics that are measuring very different kinds of things.</p>
+
+<p>In fact, I think there are really three questions we are trying to address in
+our business metrics.</p>
+
+<ul>
+  <li><strong>How well are we managing our business?</strong></li>
+  <li><strong>How well are we executing our plans?</strong></li>
+  <li><strong>How are we improving our business?</strong></li>
+</ul>
+
+<p>The challenge is really that each of these questions requires a different kind
+of metric and approach to management. OKRs are far better suited to the last
+question, than the first two. I actually think that many of the issues people
+face when deploying OKRs is the tension of trying to fit the answer to all 3
+of these questions into one goal setting framework.</p>
+
+<p>For very early stage companies, it’s often true that the third is the only
+truly relevant question. There is no existing business to really “manage” and
+all plans are to improve the business. So, everything sort of meshes together,
+and the single system can work. But for larger companies (or smaller companies
+that have grown!), this system breaks down.</p>
+
+<p>Let’s take a look at each of these three questions in turn and see what sort
+of metrics and goals might be appropriate for each.</p>
+
+<p><strong>How well are we managing our business?</strong></p>
+
+<p>This seems like an obvious question to answer, but often it can take a back
+seat to big ambitious goals. However, many parts of a business aren’t really
+good targets for big ambitious goals. You may have a high level of customer
+service and satisfaction you need to maintain. Or you may need to manage costs
+down slightly. This sort of metric of “maintain a good status quo” or slight
+improvement to some metrics isn’t a good fit for the “ambitious goals”
+approach.</p>
+
+<p>Instead, this is an area where you likely need to manage with a more
+traditional KPI structure. If you can identify the key metrics that measure
+your performance, you should be able to manage them to a target. The beauty of
+KPIs (vs OKRs) is that you can have more of them, and they can be relatively
+static. They are like health metrics for your business. Customer satisfaction,
+margins, customer inquiry response times, etc. There is an art to picking the
+right KPIs and the goal for each — but they are a good way to manage a
+business that you understand pretty well.</p>
+
+<p><strong>How well are we executing our plans?</strong></p>
+
+<p>I think this is the question that often gets short shrift. OKRs and KPIs both
+tend to focus on business-level metrics — or what are called output metrics.
+They don’t really measure how well a team executed — especially not in the
+short run. We’ve all seen teams that hit their metrics due to external
+circumstances, despite failing to execute well on their initiatives. And we’ve
+all seen the opposite.</p>
+
+<p>Any company that wants to maintain a high level of operational excellence has
+to be very effective and doing what it sets out to do — and unfortunately we
+too often combine our measurement of that with the question “did our
+initiatives have the anticipated impact?” That makes it hard for us to
+honestly track how well we execute initiatives and be honest about how to get
+better on this front. It also means that too often teams are rewarded (or not)
+based on things outside their control.</p>
+
+<p>I haven’t seen an amazing system for managing the execution of initiatives or
+projects. OKRs and KPIs seem to take up a lot of air, but I don’t know the
+equivalent acronym for this space (if anyone has one, please share it!).
+However, I can identify a few key elements I think are critical for doing this
+well.</p>
+
+<ol>
+  <li><strong>Focus on the deliverables</strong>. The whole purpose here is to separate strategy from execution. These measurements should be input-oriented and focused on what the team is delivering.</li>
+  <li><strong>Set medium time frames.</strong> I’m not sure you need to stick to a strict, one-size fits all time frame like quarterly. But these should be projects between weeks and months. Long enough to be meaningful and challenging to execute, but short enough to be reasonably predictable.</li>
+  <li><strong>Keep the scope contained.</strong> For the most part, teams should own the resources and dependencies they count on for this sort of project. That’s clearly not always possible, but it’s a good starting principle. This is a metric meant to manage execution — so make sure everyone who is responsible for the project buys into this.</li>
+</ol>
+
+<p><strong>How are we improving our business?</strong></p>
+
+<p>In my history, this is the core question everyone is looking to use OKRs to
+measure. How are we getting better? And the challenge is that it can give
+short shrift to the management of more traditional KPIs and often doesn’t
+tightly correlate to execution. I’m still a big fan of OKRs — I think having
+some big goals about how a company needs to improve is critical to really
+driving change.</p>
+
+<p>And I think OKRs can be more focused on this purpose. We aren’t also trying to
+use them to manage more stable parts of a business and measure our ability to
+execute. Once we offload those tasks, we can really think about what big
+things we want or need to change about our business and focus our OKRs on
+that.</p>
+
+<p>That’s it. That was my recent thought on metrics and measurement. Stop trying
+to fit all of your goals into one system, and use different approaches to how
+you measure the answer to these three very different questions!</p>]]></content><author><name>{&quot;url&quot;=&gt;&quot;https://www.whattheai.fm&quot;}</name></author><summary type="html"><![CDATA[I’ve had a lot of conversation about OKRs — and I’ve even written down my thoughts on the subject a few times. I’ve also spent countless hours debating what the right OKRs for a company or team are. As I’ve reflected on the struggle to capture the right OKRs, I realize there is really a significant tension between metrics that are measuring very different kinds of things.]]></summary></entry><entry><title type="html">Arc Browser</title><link href="http://localhost:4000/2024/02/06/arc-browser.html" rel="alternate" type="text/html" title="Arc Browser" /><published>2024-02-06T00:00:00-08:00</published><updated>2024-02-06T00:00:00-08:00</updated><id>http://localhost:4000/2024/02/06/arc-browser</id><content type="html" xml:base="http://localhost:4000/2024/02/06/arc-browser.html"><![CDATA[<p>As an avowed gadget geek, one thing I’ve enjoyed about moving on from my role
+at Upstart has been the freedom to install whatever tools I want on my laptop,
+without having to negotiate with IT and InfoSec folks (you guys know I love
+you, but it’s true…) . I know I could have done this earlier with a personal
+laptop, but who wants to manage multiple laptops?!?! So, I’ve been playing
+with some new toys recently and there is one I want to share — the <a href="https://arc.net/">Arc
+Browser</a>. I spend most of my time on my computer in the
+browser, so I was excited to see someone come out with a truly fresh take on
+how it should work. Here are my favorite features:</p>
+
+<ul>
+  <li><strong>Side Tab Bar.</strong> Like most people, I find that my screen often has more horizontal space than I need — but I’m always scrolling vertically. Moving the tab bar to the side of the window, vs the top, opens up more screen real estate for what I’m doing.</li>
+  <li><strong>Hide the Tab Bar.</strong> You can also hide the tab bar with a quick -CMD-S- key stroke — freeing up even more space, and helping you (or at least me) stay focused on what you’re doing.</li>
+  <li><strong>Limited “Chrome”.</strong> This was one of the killer features of Chrome on its release (and how it got its name). They just got ride of so much of the stuff around the browser to focus on what you were doing. Arc takes this to the next level (you can even remove the URL bar by default!). Having more space for my web apps/sites is really nice.</li>
+  <li><strong>Spaces.</strong> This is probably the biggest departure in terms of regular use compared to other browser. Spaces are basically areas where you can have a set up of different open tabs and Bookmarks/Favorites (or Pinned Tabs, as Arc calls them). I found this incredibly useful. I’ve never been a huge fan of just leaving open tons of tabs to get to later. However, I do see the value of being able to leave open a few tabs for a project I might be working on. Now, I make that a space. This means I can leave all my open tabs, and even Pin a few tabs I know I will always need when working on this project. But when I switch to a different space, they all vanish and don’t clutter up my window. I have a General space with email, calendar, and a bunch of favorites. I have a news/reading space with Feedly and Pocket Pinned and open tabs for anything I was in the middle of but haven’t finished. I also have specific spaces for different projects I’m working on. I think of each as a context — and I can arrange my Space for that context — and then just leave it when I switch contexts. I have loved the workflow this feature has enabled!</li>
+  <li>
+    <p><strong>Preview Links.</strong> When you have a link in an email (or anywhere else, really), clicking it opens in a little preview sub-window without leaving your tab. If it’s a quick thing to read/finish, you just close it and you’re right back where you started. If it might take longer, you can fully open it (into any Space) and leave it there for later. Surprisingly saves a good amount of time.</p>
+  </li>
+  <li><strong>Chrome Extensions.</strong> This isn’t a reason to switch from Chrome, but it’s awesome to know that I can get all of my favorite Chrome extensions here — 1Password, Pocket ,etc</li>
+  <li><strong>Video Mini Player</strong> If you’re watching a video and switch to a new tab, the video will pop out in a mini-player and just keep going. I find this incredibly useful in a number of contexts. Very smart execution here.</li>
+</ul>
+
+<p>If you do most of your work in browser and are curious about any of the above,
+I recommend you give it a try. I’ve really enjoyed the experience of switching
+to Arc, and honestly I’m just glad to see some real innovation around the
+browser that acknowledges how much time we all spend in it and tries to make
+that time a little bit more pleasant and efficient.</p>]]></content><author><name>{&quot;url&quot;=&gt;&quot;https://www.whattheai.fm&quot;}</name></author><summary type="html"><![CDATA[As an avowed gadget geek, one thing I’ve enjoyed about moving on from my role at Upstart has been the freedom to install whatever tools I want on my laptop, without having to negotiate with IT and InfoSec folks (you guys know I love you, but it’s true…) . I know I could have done this earlier with a personal laptop, but who wants to manage multiple laptops?!?! So, I’ve been playing with some new toys recently and there is one I want to share — the Arc Browser. I spend most of my time on my computer in the browser, so I was excited to see someone come out with a truly fresh take on how it should work. Here are my favorite features:]]></summary></entry><entry><title type="html">Don’t Underestimate Narrow AI</title><link href="http://localhost:4000/2023/10/24/don-t-underestimate-narrow-ai.html" rel="alternate" type="text/html" title="Don’t Underestimate Narrow AI" /><published>2023-10-24T00:00:00-07:00</published><updated>2023-10-24T00:00:00-07:00</updated><id>http://localhost:4000/2023/10/24/don-t-underestimate-narrow-ai</id><content type="html" xml:base="http://localhost:4000/2023/10/24/don-t-underestimate-narrow-ai.html"><![CDATA[<p>created by DALL·E 3 through ChatGPT interface.</p>
+
+<p>AI is a hot topic these days — though what exactly counts as AI is often
+debated. I’m sometimes reminded of the quote often attributed to Alan Kay
+“Technology is anything that wasn’t around when you were born.” There is so
+much truth to that quote — and I think AI is experiencing a similar shifting
+of the goalposts. After all, early AI systems, often called “expert systems”
+were essentially programmed with a large set of knowledge and rules. Unlike
+today’s AI systems, they did not “learn” from data so much as they were simply
+given a set of information and rules. Today, that would almost certainly not
+qualify as AI under almost any definition.</p>
+
+<p>Similarly, the discussion around AI seems to mostly be centered around what is
+generally known as Artificial General Intelligence or AGI. AGI has the goal of
+building a broad-based human-like intelligence that can reason across a broad
+range of topics or areas, importantly including those it was not specifically
+trained on. There is much debate about how close we are (or aren’t) to AGI,
+with the most optimistic believing we are just a handful of years (or a few
+training iterations of GPT) away from a superhuman general intelligence while
+the skeptics believe we are not even on the right track and essentially need
+to start nearly from scratch to build a whole new approach. There are deep
+experts with long histories in AI research and application on both sides of
+this debate.</p>
+
+<p>Interestingly, while LLMs that you can talk to about nearly any topic feel
+like something close to an AGI, many of the most impressive AI applications
+from the last few years do not — and don’t even have the objective of doing
+so. Image recognition models, automated driving systems, image and video
+generation models — none of these have a generalized intelligence as one of
+their objectives. And yet, I think most of us think of them as AI.</p>
+
+<p>I make this point not to be nitpicky, but because I worry the debate about AGI
+and how close (or far) systems like ChatGPT, Claude, Bard or other LLMs may be
+from that objective can distract us from the very real and immediate
+opportunity to apply specific or narrow AI systems today. As these types of
+models come down in cost and complexity to develop and deploy, the
+opportunities to leverage them are almost limitless. Almost every business,
+government, or non-profit has the opportunity to become more effective at
+achieving its objectives and serving its stakeholders through the use of AI
+models — and none of them really need to meet the criteria of AGI.</p>
+
+<p>So, while it can be fun to debate the nearness of generalized intelligence —
+and what the implications of a superhuman AGI might be (I have plenty of
+thoughts on this too, but I will leave those for other posts) — let’s not
+forget to leverage the AI abilities available to us today to make this world
+we live in a better place. The technology is here today, just waiting to be
+deployed.</p>]]></content><author><name>{&quot;url&quot;=&gt;&quot;https://www.whattheai.fm&quot;}</name></author><summary type="html"><![CDATA[created by DALL·E 3 through ChatGPT interface.]]></summary></entry><entry><title type="html">Writing to Think</title><link href="http://localhost:4000/2023/04/19/writing-to-think.html" rel="alternate" type="text/html" title="Writing to Think" /><published>2023-04-19T00:00:00-07:00</published><updated>2023-04-19T00:00:00-07:00</updated><id>http://localhost:4000/2023/04/19/writing-to-think</id><content type="html" xml:base="http://localhost:4000/2023/04/19/writing-to-think.html"><![CDATA[<p>I <a href="https://www.linkedin.com/posts/jeffkeltner-after-more-
+than-a-decade-of-amazing-experiences-activity-7050209127691677696-GFPm">recently announced</a> that I
+was stepping back from my full-time role at Upstart. It was sad for me to go,
+but I tend to be someone who looks forward and not backward — so I’ve been
+enjoying all the questions about what I’m going to do next. And the honest
+answer is, I don’t have any substantial plans right now.</p>
+
+<p>However, I do know that I want to spend more time reading (and thinking). In
+particular, I plan to spend time diving into the newest areas of AI (a
+landscape which is seemingly shifting by the hour!) and the connected topics
+of climate change and energy. If you have any recommendations for books,
+newsletters, articles, etc — send them my way!</p>
+
+<p>As a part of that process, I plan to start writing more as well. I don’t
+expect to have a lot of particularly new thinking to share (one can always
+hope!). However, I find that writing about a topic helps me to understand it
+better and to clarify my thinking (an understanding I have borrowed from Paul
+Graham). At my best, I hope to share what I’m learning in ways that might be
+more understandable or digestible that others can find in other sources.</p>
+
+<p>In addition tho the writing process helping to improve my thinking, I’m hoping
+my audience can help me think through topics in real time as well. So often,
+debates with strong critical thinkers can help us improve our understanding of
+a concept or topic. I don’t exactly have a huge audience, but I am hoping that
+comments and replies to my posts will help me refine my thinking and expand my
+understanding.</p>
+
+<p>For now, I will continue to post here on my Medium blog and share those posts
+on LinkedIn. Mostly because I don’t want the overhead of running a personal
+blog, and I find the signal-to-noise ratio too low to be worth engaging on
+other social platforms. So, I look forward to writing more — and engaging with
+your feedback!</p>]]></content><author><name>{&quot;url&quot;=&gt;&quot;https://www.whattheai.fm&quot;}</name></author><summary type="html"><![CDATA[I recently announced that I was stepping back from my full-time role at Upstart. It was sad for me to go, but I tend to be someone who looks forward and not backward — so I’ve been enjoying all the questions about what I’m going to do next. And the honest answer is, I don’t have any substantial plans right now.]]></summary></entry><entry><title type="html">User Experience as a Moat</title><link href="http://localhost:4000/2023/01/03/user-experience-as-a-moat.html" rel="alternate" type="text/html" title="User Experience as a Moat" /><published>2023-01-03T00:00:00-08:00</published><updated>2023-01-03T00:00:00-08:00</updated><id>http://localhost:4000/2023/01/03/user-experience-as-a-moat</id><content type="html" xml:base="http://localhost:4000/2023/01/03/user-experience-as-a-moat.html"><![CDATA[<p>I have a habit of creating a photo book every year for our family — and also
+an individual one for any larger family trips we take. We just returned from a
+large family trip — and I finished the photo book for this trip in about 2
+days. Most people will consider that a bit crazy (and it probably is). But I
+think there is also a lesson about product design that can be learned from my
+experience — one that will be applicable to the coming onslaught of AI
+companies.</p>
+
+<p>There is one simple key for how I get these books finished quickly and
+consistently — I never let the perfect be the enemy of the good. I could use
+more complex layouts, do more post-processing to make images look better, etc
+and improve the quality of the book. But I know the best feature of the book
+is that it’s finished. Good and done beats better and in process.</p>
+
+<p>To build these photo books, I consistently use Google Photos. I know there are
+services with higher quality prints and better layout options. But the key for
+me is making it easy. With Google, I can make an album for my trip and with
+one click it will turn it into a book. I can mess a little bit with the
+layouts and add some captions. But mostly I leave it alone. Because my key
+objective is getting it done — not making it perfect.</p>
+
+<p>This focus on making things easy for the user is an often under-appreciated
+super-power for software. Some consumer software companies have learned this
+lesson — though by no means all of them. And poor user experience is a cliché
+for enterprise software (though some newer B2B SaaS companies are doing a
+better job here). However, in general — most software is still built for
+people who already know how to use it.</p>
+
+<p>This idea of the power of simple user experiences was driven home to me
+recently when I was talking to a friend about the moats available to AI
+companies. I think many people in the AI space are focused not on building a
+technical advantage or a data advantage. Surely some form of better training
+data and more sophisticated models will win the day. But I’m not so sure. Look
+at some of the most recent examples of technologies that captured the
+imagination of consumers.</p>
+
+<p>First, we can look at ChatGPT. The underlying language model GTP-3 was nearly
+2 years old when ChatGPT came out. And while some in the tech community were
+enamored with it, the challenge in leveraging the model in a consistent way
+meant that few outside the tech community saw the power of the model. However,
+when it was wrapped in a chat interface, it became an overnight phenomenon.
+Simplifying the user experience was key to getting people to really leverage
+it.</p>
+
+<p>Another example would be GitHub’s Copilot. This product also leverages GPT-3,
+but in this case with an additional layer of training and the specific goal of
+helping developers write better code. Here, GitHub integrated the experience
+into the development environment itself as an auto-complete option for
+developers when there is a sufficiently high confidence guess of what comes
+next. I tried Copilot and found it amazing — particularly when I could just
+write a comment of what I wanted the code to do and Copilot would suggest
+whole functions to achieve my objective. It’s truly mind-blowing. While we can
+use this as an example of one effective way to leverage AI to increase the
+capabilities of human creatives (vs replacing them), my point today is simply
+that there was tremendous power (and competitive advantage) in developing the
+right user experience around the model.</p>
+
+<p>My final example is the mobile app Lensa. Lensa took an open source image
+generation AI model called Stable Diffusion and used it to generate AI-drawn
+avatars for individuals. They even charged a few bucks for it. Of course,
+anyone could do this for free by just using Stable Diffusion directly. But
+speaking as someone who spent several hours trying to install Stable Diffusion
+(unsuccessfully — apparently it’s not easy to do an an Apple Silicon Mac…), I
+can attest to the power of making the model easily accessible to users.</p>
+
+<p>While so much development is happening in state of the art model development,
+it’s easy to think that the companies that end up as big winners in this space
+will have the most sophisticated models or the biggest proprietary training
+data set — it’s important not to underestimate the advantage that accrues to
+those companies that build the right experiences on top of the models. It may
+not seem like nearly as defensible a moat, but given how few companies really
+excel at building user experiences and how different a skill set and mentality
+it takes than building AI models, I believe such differentiation can be just
+as valuable.</p>]]></content><author><name>{&quot;url&quot;=&gt;&quot;https://www.whattheai.fm&quot;}</name></author><summary type="html"><![CDATA[I have a habit of creating a photo book every year for our family — and also an individual one for any larger family trips we take. We just returned from a large family trip — and I finished the photo book for this trip in about 2 days. Most people will consider that a bit crazy (and it probably is). But I think there is also a lesson about product design that can be learned from my experience — one that will be applicable to the coming onslaught of AI companies.]]></summary></entry><entry><title type="html">Book Review- A Promised Land</title><link href="http://localhost:4000/2021/04/08/book-review-a-promised-land.html" rel="alternate" type="text/html" title="Book Review- A Promised Land" /><published>2021-04-08T00:00:00-07:00</published><updated>2021-04-08T00:00:00-07:00</updated><id>http://localhost:4000/2021/04/08/book-review-a-promised-land</id><content type="html" xml:base="http://localhost:4000/2021/04/08/book-review-a-promised-land.html"><![CDATA[<p><img src="https://cdn-
+images-1.medium.com/max/800/0*-Rxm9sVwto5KZ6Xk" alt="Promised Land book cover image." /></p>
+
+<p>I just finished former President Barrack Obama’s book <a href="https://www.amazon.com/Promised-Land-Barack-Obama-
+ebook/dp/B08GJZFBYV/ref=tmm-kin-swatch-0?-encoding=UTF8&amp;qid=&amp;sr=">A Promised
+Land</a> and I highly
+recommend it for anyone — or at least anyone who can manage a 600 page
+political memoir which is only a Part 1 of 2 (let’s be honest, it feels like
+it might be part 1 of 3…).</p>
+
+<p>I found it to be a fascinating inside perspective on the major policy choices
+and foreign policy issues of his presidency. I thought his candor about tough
+decisions, splits in his team, processes that didn’t work out the way he
+wanted, etc were extremely illuminating. It is a clear illustration of the
+tough trade-offs and decisions inherit in governing — and clearly demonstrates
+his thoughtful approach to each. And whether you agree with him or not, I
+think everyone will appreciate the thinking behind how he approached major
+decision through out his time in office.</p>
+
+<p>I actually enjoy reading many political memoirs from across the political. I
+found George W Bush’s <a href="https://www.amazon.com/Decision-
+Points-George-W-Bush-
+ebook/dp/B003F3PK5Y/ref=sr-1-1?dchild=1&amp;keywords=decision%20points&amp;qid=1615936908&amp;s=digital-
+text&amp;sr=1-1">-Decision Points-</a> quite interesting as well, so this isn’t an issue of political
+leaning. However, after four years of a lack of real thoughtfulness in the
+White House, I found this read very refreshing — and it helped me regain some
+confidence that at its core, our government is generally managed by
+thoughtful, well-meaning people trying to do what they think is best in our
+country.</p>
+
+<p>Perhaps that reminder is what I really needed.</p>]]></content><author><name>{&quot;url&quot;=&gt;&quot;https://www.whattheai.fm&quot;}</name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Visions of a Brighter (Calendar) Tomorrow</title><link href="http://localhost:4000/2021/03/25/visions-of-a-brighter-calendar-tomorrow.html" rel="alternate" type="text/html" title="Visions of a Brighter (Calendar) Tomorrow" /><published>2021-03-25T00:00:00-07:00</published><updated>2021-03-25T00:00:00-07:00</updated><id>http://localhost:4000/2021/03/25/visions-of-a-brighter-calendar-tomorrow</id><content type="html" xml:base="http://localhost:4000/2021/03/25/visions-of-a-brighter-calendar-tomorrow.html"><![CDATA[<h3 id="automated-calendar-tetris">Automated Calendar Tetris</h3>
+
+<p>I talk to a lot of people about productivity and effectiveness at work and one
+topic seems to be coming up more and more often these days — the craziness of
+calendars. This is a topic worthy of multiple posts for sure as there are many
+issues with calendars these days. One big topic is that many people I know
+simply have too many meetings on their calendar — and not enough time to get
+work done. But in this post, I want to tackle one in particular — what I
+sometimes call “Calendar Tetris”.</p>
+
+<p>images-1.medium.com/max/800/0*4J0Hepk0bmPMJkhC)<img src="https://cdn-
+images-1.medium.com/max/800/0*CxhCl3L9x75pFOCi" alt="" /></p>
+
+<p>This is where you need to schedule a meeting with a group of people and there
+is simply no available time for the meeting. So you begin to look for places
+where there are only a few conflicts to see if you could move one or two
+meetings to make space. But which meetings can you effectively move without
+much delay? The space of possibilities explore in number very quickly but the
+logic is quite simple. This is exactly the sort of problem that is better
+solved by computers than by people — which makes me ask why this have either
+Microsoft or Google done this?</p>
+
+<p>The lack of a solution here actually makes it harder for me to really block
+time on my calendar, which I think is a great practice. If I need an hour to
+do real work, I want to put that hour on my calendar so I know I have an hour
+to do that work. But I don’t really need <strong>that</strong> hour, I need <strong>an</strong> hour. If
+I can move that to make time for a meeting, I’m happy to. But calendars don’t
+work that way — so I often don’t put those blocks on my calendar at all so I
+have time for important meetings.</p>
+
+<p>Or worse, sometimes people just book over things on my calendar which they
+think are less important than their meeting. Sometimes they’re right —
+sometimes they’re not. Plus, I don’t always notice when this happens — and I
+really need to move whatever was booked over.</p>
+
+<p>Sometimes there are executive assistants who can work through these issues for
+you — but it’s often just as frustrating and time consuming for them. And
+honestly, laborious manual processes that don’t take a lot of judgement are
+perfectly suited to automation. This doesn’t even take fancy AI/ML techniques!
+Here’s the hoping someone at Google is paying attention and tackles this (I
+say Google since we use GSuite, so a MSFT solution doesn’t help me… 😉)</p>]]></content><author><name>{&quot;url&quot;=&gt;&quot;https://www.whattheai.fm&quot;}</name></author><summary type="html"><![CDATA[Automated Calendar Tetris]]></summary></entry><entry><title type="html">Running Docs</title><link href="http://localhost:4000/2021/01/26/running-docs.html" rel="alternate" type="text/html" title="Running Docs" /><published>2021-01-26T00:00:00-08:00</published><updated>2021-01-26T00:00:00-08:00</updated><id>http://localhost:4000/2021/01/26/running-docs</id><content type="html" xml:base="http://localhost:4000/2021/01/26/running-docs.html"><![CDATA[<p>I’m not sure what the right term is for people like me, but there should be
+one. I tend to keep iterating through different productivity tools and methods
+constantly. Some of this I think is a healthy evolution as I learn new things
+and try to get better at managing myself and my tasks. And some of it is
+probably a bit unhealthy. I know there are others like me — who just have to
+try the latest tool / technique — I’m just not sure what they’re called.</p>
+
+<p>Given my propensity to frequent change, I’m hesitant to share my current
+system with folks since I’m sure I’ll find a flaw in it soon. However, when I
+find a technique that really shows value and lasts over time, I figure it’s
+probably got some long lasting value. One of those tools for me is the running
+document.</p>
+
+<p>I’ve long struggled with how to keep notes for meetings. How should I organize
+or structure them? For a long time I would just use one document for each
+meeting — but that becomes cumbersome and just results in a lot of files. Then
+I started using running documents and I love them.</p>
+
+<p>These are documents that follow a meeting or topic and I just add to over
+time.I always add newer material at the top of the running document, so that
+when I open it up I can get the latest information right away. I will
+typically add a section header with the date for a new entry at the top, and
+then add my content. I just use basic text documents for this, but I use them
+in a number of different contexts:</p>
+
+<ul>
+  <li><strong>Internal Meetings</strong> I usually just have one document for each meeting with the notes from each. Sometimes I keep this on the team-level with multiple different regular meetings (weekly team meetings, quarterly offsite, etc) in the same document.</li>
+  <li><strong>Customer Notes</strong> This is one of my favorites — just keep one document with notes from all of my meetings with a customer or partner. Easy to find all the history and context quickly.</li>
+  <li><strong>1 on 1s</strong> I don’t take notes in all of my 1:1s, because I want to really focus on the individual and the conversation. However, I try to jot down key themes/ides afterwards — and remember to add topics to discuss next time.</li>
+  <li><strong>OKRs</strong> This one is a lot of fun to look back at. Some people like to track OKRs in a spreadsheet where they can use formulas for grading. I prefer to just keep them in a document, typically in bullet points. I create a header for the quarter. Top level bullets for objectives, second-level bullets for Key Results. When graded, I add a score in brackets at the front of the line (eg [0.7] Key result 2) and highlight it Green/Yellow/Red. I also add a (non-bullet) line below KRs in italics with details on the results. Having a history of several years of OKRs in one document is just fun.</li>
+</ul>
+
+<p>I hope that run through on how I use running documents was useful. It’s a
+great way to keep track of things and I’ve really enjoyed it — it’s a keeper!</p>
+
+<p>If your’e curious about tools, I currently use (and love) the <a href="https://bear.app/">Bear app
+</a>(Mac and iOS) for notes. It’s a simple markdown tool that
+is both simple and elegant and works perfectly for me. Yes, I’ve played with
+<a href="https://roamresearch.com/">Roam</a> — but I find that Bear is doing everything I
+need right now.</p>]]></content><author><name>{&quot;url&quot;=&gt;&quot;https://www.whattheai.fm&quot;}</name></author><summary type="html"><![CDATA[I’m not sure what the right term is for people like me, but there should be one. I tend to keep iterating through different productivity tools and methods constantly. Some of this I think is a healthy evolution as I learn new things and try to get better at managing myself and my tasks. And some of it is probably a bit unhealthy. I know there are others like me — who just have to try the latest tool / technique — I’m just not sure what they’re called.]]></summary></entry><entry><title type="html">Faster (and better!) golf with fewer clubs</title><link href="http://localhost:4000/2021/01/20/faster-and-better-golf-with-fewer-clubs.html" rel="alternate" type="text/html" title="Faster (and better!) golf with fewer clubs" /><published>2021-01-20T00:00:00-08:00</published><updated>2021-01-20T00:00:00-08:00</updated><id>http://localhost:4000/2021/01/20/faster-and-better-golf-with-fewer-clubs</id><content type="html" xml:base="http://localhost:4000/2021/01/20/faster-and-better-golf-with-fewer-clubs.html"><![CDATA[<p>Almost a year ago, a friend of mine mentioned “speed golf” to me. For those
+not familiar, it is a version of the game played competitively where your
+overall score is your number of strokes plus your time in minutes. Speed golf
+players typically play with smaller bags and reduced sets of clubs — and often
+finish 18 holes in under an hour and a half.</p>
+
+<p>While I haven’t taken to literally running the course like true speed golfers,
+I have picked up my pace of play. These days, I like to finish 18 holes solo
+in right at 2 hours. It’s a quick pace — but totally doable if you stay
+focused (and it helps if you hit the ball straight…).</p>
+
+<p>One thing I have totally adopted from the speed golf mentality is a small bag
+with a reduced set of clubs. I absolutely love heading out with my smaller
+bag. It feels so incredibly light and freeing. And despite having fewer clubs,
+I have found that it makes no impact on my score — and helps me occasionally
+be more creative! I tried going back to my full bag and set of clubs and
+despite having 3.5 pound bag, it still felt like a lead weight in comparison!</p>
+
+<p>little bag.</p>
+
+<p>I’m a huge fan of whatever can get more golfers walking the course (it really
+is the best way to play the game!). Since I’ve tried a few iterations and bags
+and clubs, and figured I’d share what was working for me in case it’s helpful
+for anyone else.</p>
+
+<p>For the bag, I’m using a <a href="https://www.amazon.com/Champkey-
+Lightweight-Golf-Stand-
+Bag/dp/B08395H4WF/ref=sr-1-1?dchild=1&amp;keywords=champkey%20golf%20bag&amp;qid=1609916361&amp;sr=8-1">Champkey stand bag</a>.
+While I don’t totally love it, it is the best quality bag of this size/type
+that I’ve found. If you’ve found a better one, let me know!</p>
+
+<p>I’ve also settled on an 8 club set. Many speed golfers play with only 6 clubs
+— and I tried that for a while. But the gaps were just too big for me to
+comfortably play without feeling like I was sacrificing scoring. For instance
+having a a 6-iron to 9-iron gap is about 30 yards difference for me — an
+knocking 25 yard off the 6-iron was just too hard to do.</p>
+
+<p>So I basically carry by odd numbered clubs now. Driver, 3 hybrid, 5 iron, 7
+iron, 9 iron, gap wedge, 60 degree wedge and putter. The gaps are pretty
+manageable — mostly 20 yards or so. I do have a bigger gap between the 3
+hybrid and the 5 iron, but from that distance I’m okay with the lack of
+accuracy. The bigger challenge is the gap between my 9 iron (about 145 yards)
+and my gap wedge (about 115 yards). Given that’s a key scoring distance, I’d
+like to shrink that one down. I’m thinking of getting a strong gap wedge and
+moving to a 58 degree wedge at the bottom.</p>
+
+<p>I’ve had to find a “take 15–20 yards off this one” swing for gap distances,
+but that’s actually not too bad. And honestly, given that I’m often swinging
+easier I’m hitting the ball better than normal. The number of times I’ve had
+to ease up on a club and then stuck it 5 feet from the hole has me asking if
+I’ve been playing the game the wrong way recently.</p>
+
+<p>So, if you want to walk but the find bag too heavy — or if you’re just curious
+what it’s like to play an ultralight version of the game, grab a mini bag and
+8 sticks and give it a shot. I’m willing to bet you’ll like it — and you may
+never go back!</p>]]></content><author><name>{&quot;url&quot;=&gt;&quot;https://www.whattheai.fm&quot;}</name></author><summary type="html"><![CDATA[Almost a year ago, a friend of mine mentioned “speed golf” to me. For those not familiar, it is a version of the game played competitively where your overall score is your number of strokes plus your time in minutes. Speed golf players typically play with smaller bags and reduced sets of clubs — and often finish 18 holes in under an hour and a half.]]></summary></entry><entry><title type="html">Better (simpler) golf stats</title><link href="http://localhost:4000/2021/01/05/better-simpler-golf-stats.html" rel="alternate" type="text/html" title="Better (simpler) golf stats" /><published>2021-01-05T00:00:00-08:00</published><updated>2021-01-05T00:00:00-08:00</updated><id>http://localhost:4000/2021/01/05/better-simpler-golf-stats</id><content type="html" xml:base="http://localhost:4000/2021/01/05/better-simpler-golf-stats.html"><![CDATA[<p>I’ve come to a hole-in-one (so far…)</p>
+
+<p>Golf fans these days are inundated with statistics on the pros. Perhaps the
+most useful of these is “strokes gained”, which shows how well a player is
+performing against the field for any given area of their game in terms of the
+ultimate impact on their score. Professionals have never had a better
+understanding of which parts of their game are contributing to their success
+(or failure) and where they should really be spending their practice time to
+help them move up the leaderboards.</p>
+
+<p>However, the story is very different for most amateurs. While “strokes gained”
+is a great metric, it relies on detailed tracking of individual shots and
+outcomes and a field of competitors to use as a benchmark — two things most
+amateurs don’t have. There are alternatives, but most fail one of the two
+critical requirements for a status program to be useful:</p>
+
+<ol>
+  <li><strong>Easy to keep.</strong> When you’re playing a round of golf, you want to focus on the playing part. Detailed statistics are too hard to track — which generally means we don’t do it.</li>
+  <li><strong>Actionable.</strong> Statistics are only useful if they can point to some specific way we can improve. If not, then what’s the point?</li>
+</ol>
+
+<p>Statistics like “strokes gained” fall into the first category. Very actionable
+— but way too hard to keep track of for even the most committed amateur.
+However, the most common fallback is to track something like fairways hit,
+greens in regulation, and putts per round. These are easy to keep, but don’t
+tell you much about where to improve. For instance, did you miss a fairway
+because of a poor drive, an exceedingly long hole where you were unlikely to
+hit it anyway, or a poor shot? Did you have more putts because you hit
+evergreen 20 feet away or because you missed up and downs?</p>
+
+<p>Because of this, many players start to track (putts per GIR, up and downs,
+greens in regulation per fairway in regulation. And while these stats are more
+useful, they become harder to track. Plus you end up with so many, trying to
+figure decipher them becomes a challenge. When you have too many numbers to
+track, you end up ignoring them all. All of which is why most amateurs I know
+end up not keeping any real stats consistently.</p>
+
+<p>As a player and a data nerd, I have struggled with these issues repeatedly. I
+have tended to fluctuate between keeping basic stats I didn’t like, keeping
+complex stats, than giving up and keeping no stats. Nothin every really stuck
+for me — until I cam up with my own set of stats.</p>
+
+<p>I have developed set of stats that I think are both (relatively easy to keep)
+and actionable. The key aspect of the approach, is that each stat is kept as a
+success rate. This allows me to more specifically track what part of my game
+is the biggest area for real improvement. The magic here is really in defining
+the right criteria for success as well as the criteria for attempts. For
+instance, if I hit a ball into the tree — I don’t have a real attempt at an
+approach shot, so failure to put the ball on the green shouldn’t count against
+my</p>
+
+<p>I keep this stats are based on 3 major areas of the game: the Power Game (full
+swings), the Short Game (pitching, chipping, sand), and Putting. For each
+area, I track stats on two types of shots to track success for. Below I’ve
+laid out all those areas and how I define attempts and successes in each.</p>
+
+<h3 id="power-game">Power Game</h3>
+
+<p><strong>Driving</strong><br />
+ -Attempt Criteria- : Any drive on a par 4 or par 5. I do exclude any attempt
+at reaching a green on the drive.<br />
+-Success Criteria- : Putting the ball in a place for a reasonable next shot.
+This generally means a reasonable shot to the green on a par 4 or in a good
+position on a par 5. That means that shots in the first cut of rough count as
+a success if they’re in good position.</p>
+
+<p>**Approach Shots<br />
+** -Attempt Criteria- : A shot intended to hit the great with a reasonable
+chance to do so. This would exclude shots from deep rough, behind trees, or
+too far away to be reasonable to reach — which I generally define as a more
+than my hybrid.<br />
+-Success Criteria- : Reaching the green at an appropriate distance from the
+hole. This criteria varies depending on the club I’m hitting in. With a hybrid
+or long iron, it just needs to be on the green. For a mid-iron, generally
+within the right quadrant of the green. And for my short irons, it needs to be
+inside of 25 feet. I think this is really critical, as a pitching wedge that
+hits a green at 40 feet really is a failed shot — and should be counted as
+such!</p>
+
+<h3 id="short-game">Short Game</h3>
+
+<p>**Pitching/Chipping<br />
+** -Attempt Criteria- : I combine pitches and chips as I have many shots I
+consider somewhat in-between. I think of this as 50 yards and in with an
+unobstructed look at the green — I don’t count behind trees, crazy lies, etc.<br />
+-Success Criteria- : For harder shots, within 20 feet of the hole. For easier
+shots, within 10 feet.</p>
+
+<p>**Sand Shots<br />
+** -Attempt Criteria- : A sand shot from a green side bunker with a reasonable
+lie. For larger bunkers, anything over about 20 yards I don’t count.<br />
+-Success Criteria- : Get the ball within 20 feet of the hole.</p>
+
+<h3 id="putting">Putting</h3>
+
+<p>**Lag Putts<br />
+** -Attempt Criteria- : A putt from the green from outside of 20 feet.<br />
+-Success Criteria- : Get the ball within 3 feet of the hole.</p>
+
+<p><strong>Makeable Putts</strong><br />
+ -Attempt Criteria- : Putt from inside of 20 feet.<br />
+-Success Criteria- : Get the ball within 3 feet of the hole and not short (so
+only half of the 3’ circle counts).</p>
+
+<p>I find these metrics to be both easy to keep and extremely useful. They
+clearly tell me where I’m doing well and where I need to improve to lower my
+scores. They keys to this system are really (1) defining success properly and
+(2) defining attempts properly. This helps us avoid penalizing our stats when
+we shouldn’t (ie missing a green from 200 yard in the trees) or being over-
+generous with ourselves when we shouldn’t (ie hitting a green from 100 yards,
+but 40 feet from the hole).</p>
+
+<p>Of course, it may make sense for other players to adjust the success criteria
+for their level of play — and one of the hard things is being honest about the
+attempts/success for each round. But if you use this system well, it can give
+you great insight into what’s working well and where you can focus your
+practice time to make the biggest improvements in your scoring.</p>
+
+<p>I would love any feedback on this system and approach — I’m always looking for
+ways to improve. I’ve also started building a mobile app to keep these stats
+for me. If you’d be interested in getting early access to the app when it’s
+ready for use, just <a href="https://docs.google.com/forms/d/e/1FAIpQLSfMHxBsnpajFwfd9apua-4Xdrdbx3o6Ew8If-Lp4ganISZLrA/viewform?usp=sf-link">fill out this
+form</a>
+and I’ll be in touch when it’s ready.</p>]]></content><author><name>{&quot;url&quot;=&gt;&quot;https://www.whattheai.fm&quot;}</name></author><summary type="html"><![CDATA[I’ve come to a hole-in-one (so far…)]]></summary></entry></feed>
