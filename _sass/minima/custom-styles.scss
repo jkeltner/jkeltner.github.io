@@ -1,2 +1,224 @@
-// Placeholder to allow defining custom styles that override everything else.
-// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+// ── Header ──────────────────────────────────────────────
+.site-header {
+  border-top: none;
+  border-bottom: 1px solid $border-color-01;
+}
+
+.site-title {
+  font-size: 1.375rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+
+  &,
+  &:visited {
+    color: $text-color;
+  }
+}
+
+.site-nav .page-link {
+  font-weight: 500;
+  font-size: 0.95rem;
+}
+
+// ── Homepage intro ──────────────────────────────────────
+.home-intro {
+  margin-bottom: 1rem;
+
+  h1 {
+    font-size: 1.75rem;
+    font-weight: 700;
+    margin-bottom: 0.25rem;
+  }
+
+  p {
+    color: #64748b;
+    font-size: 1.05rem;
+    margin-bottom: 0;
+  }
+}
+
+.home-intro + hr {
+  border: none;
+  border-top: 1px solid $border-color-01;
+  margin-bottom: 2rem;
+}
+
+// ── Post list (homepage) ────────────────────────────────
+.post-list {
+  list-style: none;
+  margin-left: 0;
+
+  li {
+    padding: 1rem 0;
+    border-bottom: 1px solid $border-color-01;
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+
+  h3 {
+    font-size: 1.15rem;
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+
+    a {
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .post-meta {
+    font-size: 0.85rem;
+    color: #94a3b8;
+  }
+
+  .post-excerpt {
+    margin-top: 0.35rem;
+    font-size: 0.95rem;
+    color: #4a5568;
+    line-height: 1.55;
+  }
+}
+
+// ── Post pages ──────────────────────────────────────────
+.post-content {
+  line-height: 1.75;
+
+  h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-top: 2.5rem;
+  }
+
+  h3 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-top: 2rem;
+  }
+
+  p {
+    margin-bottom: 1.25rem;
+  }
+
+  blockquote {
+    border-left: 3px solid $brand-color-light;
+    color: #64748b;
+    font-style: italic;
+    padding-left: 1.25rem;
+  }
+
+  img {
+    border-radius: 6px;
+  }
+}
+
+.post-title {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.25;
+}
+
+.post-meta {
+  color: #94a3b8;
+}
+
+// ── About page ──────────────────────────────────────────
+.about-page {
+  .about-header {
+    display: flex;
+    align-items: flex-start;
+    gap: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .about-photo {
+    flex-shrink: 0;
+
+    img {
+      width: 180px;
+      height: 180px;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+  }
+
+  .about-bio {
+    flex: 1;
+
+    h1 {
+      font-size: 1.75rem;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+    }
+
+    p {
+      line-height: 1.7;
+      color: #4a5568;
+    }
+  }
+
+  .about-links {
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid $border-color-01;
+
+    h2 {
+      font-size: 1.15rem;
+      font-weight: 600;
+      margin-bottom: 0.75rem;
+    }
+
+    ul {
+      list-style: none;
+      margin-left: 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+    }
+
+    a {
+      display: inline-block;
+      padding: 0.4rem 1rem;
+      border: 1px solid $border-color-01;
+      border-radius: 6px;
+      font-size: 0.9rem;
+      font-weight: 500;
+      text-decoration: none;
+      transition: border-color 0.2s, background-color 0.2s;
+
+      &:hover {
+        border-color: $brand-color;
+        background-color: #f7fafc;
+      }
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    .about-header {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+  }
+}
+
+// ── Footer ──────────────────────────────────────────────
+.site-footer {
+  border-top: 1px solid $border-color-01;
+  padding: 1.5rem 0;
+}
+
+.footer-col-wrapper {
+  font-size: 0.875rem;
+  color: #94a3b8;
+}
+
+// ── General ─────────────────────────────────────────────
+a {
+  transition: color 0.15s ease;
+}
