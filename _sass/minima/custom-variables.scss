@@ -1,14 +1,19 @@
 // Typography
-$base-font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+$base-font-family: "Nunito Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+$heading-font-family: "Oswald", $base-font-family;
 $base-font-weight: 400;
 
-// Colors — softer palette
-$brand-color:        #4a6fa5;  // softer blue for links
-$brand-color-light:  lighten($brand-color, 25%);
-$brand-color-dark:   darken($brand-color, 15%);
-$text-color:         #2d3748;  // warm dark gray
+// Colors
+$navy:               #044389;
+$bright-blue:        #0496FF;
+$gold:               #F6AE2D;
+
+$brand-color:        $bright-blue;
+$brand-color-light:  lighten($bright-blue, 30%);
+$brand-color-dark:   $navy;
+$text-color:         #2d3748;
 $background-color:   #fdfdfd;
-$border-color-01:    #e2e8f0;  // lighter border
+$border-color-01:    #e2e8f0;
 
 // Layout
 $content-width:      840px;

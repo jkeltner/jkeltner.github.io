@@ -1,23 +1,45 @@
+// ── Global headings ──────────────────────────────────────
+h1, h2, h3, h4, h5, h6 {
+  font-family: $heading-font-family;
+  font-weight: 600;
+  color: $navy;
+  letter-spacing: 0.01em;
+}
+
 // ── Header ──────────────────────────────────────────────
 .site-header {
-  border-top: none;
+  border-top: 3px solid $gold;
   border-bottom: 1px solid $border-color-01;
 }
 
 .site-title {
-  font-size: 1.375rem;
+  font-family: $heading-font-family;
+  font-size: 1.5rem;
   font-weight: 700;
-  letter-spacing: -0.02em;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
 
   &,
   &:visited {
-    color: $text-color;
+    color: $navy;
+  }
+
+  &:hover {
+    color: $bright-blue;
+    text-decoration: none;
   }
 }
 
 .site-nav .page-link {
-  font-weight: 500;
-  font-size: 0.95rem;
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: $navy;
+
+  &:hover {
+    color: $bright-blue;
+  }
 }
 
 // ── Homepage intro ──────────────────────────────────────
@@ -25,9 +47,13 @@
   margin-bottom: 1rem;
 
   h1 {
-    font-size: 1.75rem;
+    font-family: $heading-font-family;
+    font-size: 2rem;
     font-weight: 700;
+    color: $navy;
     margin-bottom: 0.25rem;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
   }
 
   p {
@@ -58,15 +84,18 @@
   }
 
   h3 {
-    font-size: 1.15rem;
+    font-family: $heading-font-family;
+    font-size: 1.2rem;
     font-weight: 600;
+    color: $navy;
     margin-bottom: 0.25rem;
 
     a {
       text-decoration: none;
+      color: $navy;
 
       &:hover {
-        text-decoration: underline;
+        color: $bright-blue;
       }
     }
   }
@@ -105,7 +134,7 @@
   }
 
   blockquote {
-    border-left: 3px solid $brand-color-light;
+    border-left: 3px solid $gold;
     color: #64748b;
     font-style: italic;
     padding-left: 1.25rem;
@@ -117,10 +146,13 @@
 }
 
 .post-title {
-  font-size: 2rem;
+  font-family: $heading-font-family;
+  font-size: 2.25rem;
   font-weight: 700;
-  letter-spacing: -0.02em;
-  line-height: 1.25;
+  color: $navy;
+  letter-spacing: 0.01em;
+  line-height: 1.2;
+  text-transform: uppercase;
 }
 
 .post-meta {
@@ -151,8 +183,12 @@
     flex: 1;
 
     h1 {
-      font-size: 1.75rem;
+      font-family: $heading-font-family;
+      font-size: 2rem;
       font-weight: 700;
+      color: $navy;
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
       margin-bottom: 0.5rem;
     }
 
