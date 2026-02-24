@@ -13,8 +13,6 @@ So, what’s a school to do?
 
 Here’s how I think about the path forward: act quickly, embrace experimentation, and be ready to change course. If we’re going to take advantage of this moment, I think there are three core principles to guide us.
 
-### 
-
 ### **1\. Lean Into the AI Opportunity**
 
 The natural instinct for many educators is to focus on what’s being lost: originality in writing, authenticity in homework, control in the classroom. But there’s just as much—if not more—to be gained.
@@ -43,8 +41,6 @@ So, we need to reimagine what assessment looks like:
 
 This won’t be easy. But if we get it right, it may actually improve our approach to measuring what matters. And what matters most is not just a set of academic skills, but the broader capabilities we hope to nurture in students: curiosity, resilience, collaboration, creativity, and critical thinking. These are harder to measure—but ultimately more important to capture.
 
-### 
-
 ### **3\. Move Fast—but Be Ready to Change Course**
 
 The tools are evolving quickly. So is our understanding of how they work—and how they break.
@@ -54,8 +50,6 @@ That means we need to start moving. But we also need to stay nimble. Our first s
 The real danger isn’t making a wrong call. It’s standing still.
 
 So make your best guess about what the next right step is. Take it. Then pay attention, evaluate, and be ready to adapt. Don’t let the pursuit of perfect paralyze progress. And don’t let uncertainty stop you from starting.
-
-### 
 
 ### **Keep the Student at the Center**
 
