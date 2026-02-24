@@ -1,10 +1,12 @@
 ---
 layout: post
 title: You gotta ask the question
+date: 2016-01-10
 ---
 
 **The best advice I ever received**
 
+<!--more-->
 Over the course of my career, I have been offered much advice. However, when
 people ask me what the best advice I ever got was I always come back to the
 same story.

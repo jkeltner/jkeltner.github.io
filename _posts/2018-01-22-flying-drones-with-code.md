@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Flying Drones with Code
+date: 2018-01-22
 ---
 
 I have been trying to get my son more interested in coding. He is very
@@ -13,6 +14,7 @@ his school newsletter that another Dad had come into the 5th grade science
 class and flown a drone through Python, I reached out to see how. What could
 make coding more exciting than having your code fly a done?!?!
 
+<!--more-->
 Sam Pfister (the Dad in question) quickly responded and pointed me to all the
 pieces needed to do this. I followed his suggestions and got this working
 pretty quickly after a bit of trial and error. Every friend my son has had

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: iPad Pro - My Travel Computer
+date: 2017-10-31
 ---
 
 I’m writing this piece from NYC, where I’ve traveled from CA for two days with
@@ -10,6 +11,7 @@ time I’m out of the office. I find it to be the ideal device when I’m on the
 go — whether I’m out meetings customers, attending a conference, or just
 working from a coffee shop; it’s usually all I take.
 
+<!--more-->
 There are many reasons I love heading out with just an iPad. First of all, it
 feels very freeing — small, lightweight, and always connected. With built-in
 LTE, I never worry about connecting to the wifi at a customer’s office or a

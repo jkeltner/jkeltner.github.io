@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Reclaiming control
+date: 2013-07-16
 ---
 
 ## Reclaiming control
 
+<!--more-->
 
 I feel like every day I read some new article or post on how overwhelming
 technology has become and how it is invading every aspect of our lives. Email

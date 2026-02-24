@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Circle Theory of Knowledge
+date: 2015-12-09
 ---
 
 I had a math teacher in high school named Mrs Zavastitsa who once explained to
@@ -11,6 +12,7 @@ by what is outside the circle. More importantly, as the area of the circle
 grows — so does its circumference. Her message was simple — the more you
 learn, the more you realize what you don’t know.
 
+<!--more-->
 I’ve always found the mental model of knowledge helpful. Sometimes it feels
 like the more I learn, the less I know. Nowhere has that been more true that
 working at a startup. Each day is an exercise in learning about something new,

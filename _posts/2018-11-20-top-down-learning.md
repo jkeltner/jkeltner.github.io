@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Top Down Learning
+date: 2018-11-20
 ---
 
 I recently wanted to learn a little bit more about machine learning. Given how
@@ -12,6 +13,7 @@ learning models that helped me understand the underlying concepts much better.
 At least for me, doing some real hands-on work is crucial to developing a
 deeper understanding of any topic.
 
+<!--more-->
 One of the most interesting things about the course was its approach. The
 instructors started with helping you build a machine learning model — and
 abstracting out much of the underlying theory. He used an analogy that I

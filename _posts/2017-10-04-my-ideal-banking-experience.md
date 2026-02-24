@@ -1,12 +1,14 @@
 ---
 layout: post
 title: MY IDEAL BANKING EXPERIENCE
+date: 2017-10-04
 ---
 
 I have had in my mind a simple concept for a banking service — one that I
 would love to use. After talking to a few friends about it, I thought I would
 put it down in writing.
 
+<!--more-->
 As a user, one consistent bug I find in the financial system is that we make
 users do a lot of work to do things that should be simple. Often simple tasks
 seem to be much more challenging than they should be. One great example is

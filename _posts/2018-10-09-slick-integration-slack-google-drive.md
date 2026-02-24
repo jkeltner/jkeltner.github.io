@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Slick Integration - Slack + Google Drive
+date: 2018-10-09
 ---
 
 I’m constantly impressed with Slack’s execution, particularly around
@@ -8,6 +9,7 @@ integrations. They are very good at executing the little things that really
 make for a delightful customer experience. One grat example of that is their
 integration with Google Drive.
 
+<!--more-->
 First, if you send a link to any Google Drive file in a Slack Channel, it will
 check to see if everyone has access to the file. If not, it will give you an
 inline option to provide Read, Comment or Edit access to everyone in the

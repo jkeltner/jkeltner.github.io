@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 3 Levels of Business Metrics
+date: 2024-02-27
 ---
 
 I’ve had a lot of conversation about OKRs — and I’ve even written down my
@@ -9,6 +10,7 @@ what the right OKRs for a company or team are. As I’ve reflected on the
 struggle to capture the right OKRs, I realize there is really a significant
 tension between metrics that are measuring very different kinds of things.
 
+<!--more-->
 In fact, I think there are really three questions we are trying to address in
 our business metrics.
 

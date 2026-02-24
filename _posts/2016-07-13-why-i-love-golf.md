@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why I Love Golf
+date: 2016-07-13
 ---
 
 “A good walk spoiled” is how Mark Twain once described the game of golf. I
@@ -11,6 +12,7 @@ would generally agree with this point of view). However, golf has been a large
 part of my life for two and half decades now, since I first started pleasingly
 regularly at the age of 10.
 
+<!--more-->
 The big question is why. What draws me to a game that is endlessly frustrating
 and tine consuming. As I reflect on what keeps bringing me back to the course
 week after week, I find three key reasons.

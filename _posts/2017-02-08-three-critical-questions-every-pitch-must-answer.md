@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Three Critical Questions Every Pitch Must Answer
+date: 2017-02-08
 ---
 
 To be successful, every sale must answer three questions for your customer.
@@ -9,6 +10,7 @@ it very useful to think of my customer’s asking these three question, in this
 order. Answering each question effectively and in the right order is crucial
 to an effective sales process or pitch. Here are my three questions:
 
+<!--more-->
   1. Why buy?
   2. Why buy now?
   3. Why buy from you?

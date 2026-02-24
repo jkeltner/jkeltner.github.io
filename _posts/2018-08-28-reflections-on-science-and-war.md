@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Reflections on Science and War
+date: 2018-08-28
 ---
 
 ![IMG-0354](https://cdn-images-1.medium.com/max/800/0*A1NdymlaD9yR-paY.jpg)The
 Enola Gay B29 that dropped an atomic bomb on Hiroshima, Japan.
 
+<!--more-->
 I recently returned from a trip to DC with my family. On our way out of town,
 we chose to visit the Steven F. Udvar Hazy museum, part of the Smithsonian’s
 Air and Space Museum. As a sucker for anything about flight and space — and as

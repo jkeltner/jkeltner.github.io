@@ -1,6 +1,7 @@
 ---
 layout: post
 title: OKRs and the Rule of 3
+date: 2020-09-22
 ---
 
 Many companies (and individuals) in Silicon Valley leverage OKRs as an
@@ -9,6 +10,7 @@ properly trained (or brainwashed) in the ways of OKRs at Google, I continue to
 use them in [my work at Upstart](https://www.upstart.com/blog/okrs-and-
 projects-how-we-set-goals-at-upstart) and in my personal life.
 
+<!--more-->
 For anyone unfamiliar, OKRs stands for Objectives and Key Results. It is a way
 of setting goals for an individual or organization. While the basic approach
 to OKRs is pretty straight-forward, as with many things the devil is in the

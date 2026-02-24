@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Poor Design- An Example
+date: 2018-05-06
 ---
 
 #### Why you have to think about how people actually use your product
 
+<!--more-->
 
 As you may or may not know, I’m an avid golfer. I haven’t written a lot about
 golf, but it’s one of my real passions — and I’m finally getting my kids into

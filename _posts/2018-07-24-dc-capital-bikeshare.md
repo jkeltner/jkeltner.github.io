@@ -1,6 +1,7 @@
 ---
 layout: post
 title: DC Capital Bikeshare
+date: 2018-07-24
 ---
 
 My wife and I recently spent a few days in Washington, DC. Nearly a decade ago
@@ -10,6 +11,7 @@ metropolitan area. Living close to the office and downtown, we used to walk
 around the city a lot and I enjoyed how easy it was to get around without a
 car.
 
+<!--more-->
 On this trip, we tried out the new (at least to us) Capital Bikeshare program.
 For $8 each for a 24 hour period, we could take as many 30 minute rides as we
 wanted on the bikes spread around the city. It was a fabulous way to get

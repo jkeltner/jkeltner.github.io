@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Become a Power User
+date: 2020-05-21
 ---
 
 Many people today spend an incredible amount of time using a variety of
@@ -10,6 +11,7 @@ external partners. Whether that means email, Slack, Google Docs, Sharepoint,
 Zoom, Skype or some other tool, we all seem to spend a lot of time in the
 middle of technology-mediated collaboration.
 
+<!--more-->
 Given how much of our working lives are spent tied up in using these
 technology tools, I think most people don’t spend enough time learning to be
 power users of their core technology tools. Learning to get most out of the

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sharing Slides Between Decks
+date: 2018-08-30
 ---
 
 As someone in an external-facing role, I spend a decent amount of time in
@@ -8,6 +9,7 @@ Keynote / PowerPoint / Google Slides building presentations. I give lots of
 presentations to external audiences and I often build custom presentations for
 each audience. Sort of.
 
+<!--more-->
 The reality, of course, is that I typically copy a bunch of slides from
 different presentations and combine them together. Even many of our standard
 slide decks (not the custom ones for a particular presentation) share many

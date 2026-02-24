@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Live Debt Free
+date: 2013-12-03
 ---
 
 ## Live Debt Free
 
+<!--more-->
 
 There is perhaps no more common American experience than having debt. US
 consumers currently have more than **-$3 trillion-** of debt outstanding and

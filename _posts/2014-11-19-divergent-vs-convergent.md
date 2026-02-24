@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Divergent vs Convergent
+date: 2014-11-19
 ---
 
 ## Divergent vs Convergent
 
+<!--more-->
 
 
 I’m generally a “digital” guy. I had palm pilots back in the day and loved

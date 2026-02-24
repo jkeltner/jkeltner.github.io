@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Visions of a Brighter (Calendar) Tomorrow
+date: 2021-03-25
 ---
 
 ### Automated Calendar Tetris
 
+<!--more-->
 I talk to a lot of people about productivity and effectiveness at work and one
 topic seems to be coming up more and more often these days — the craziness of
 calendars. This is a topic worthy of multiple posts for sure as there are many

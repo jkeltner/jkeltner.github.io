@@ -1,6 +1,7 @@
 ---
 layout: post
 title: No Twitter January
+date: 2018-02-02
 ---
 
 For a few years now I’ve done a “no alcohol” January. I started that after a
@@ -9,6 +10,7 @@ actually enjoyed doing it and felt quite good afterwards. I also found that
 after totally giving up alcohol for a while, I reduced my overall consumption
 moving forward. And I lost a few pounds!
 
+<!--more-->
 This year I added a “no Twitter” policy. I was inspired by [Dave
 Girouard](https://twitter.com/@davegirouard) who went further giving up
 Facebook (which I haven’t been on in years), Twitter, alcohol and dessert. I

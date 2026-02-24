@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Arc Browser
+date: 2024-02-06
 ---
 
 As an avowed gadget geek, one thing I’ve enjoyed about moving on from my role
@@ -13,6 +14,7 @@ Browser](https://arc.net/). I spend most of my time on my computer in the
 browser, so I was excited to see someone come out with a truly fresh take on
 how it should work. Here are my favorite features:
 
+<!--more-->
   * **Side Tab Bar.** Like most people, I find that my screen often has more horizontal space than I need — but I’m always scrolling vertically. Moving the tab bar to the side of the window, vs the top, opens up more screen real estate for what I’m doing.
   * **Hide the Tab Bar.** You can also hide the tab bar with a quick -CMD-S- key stroke — freeing up even more space, and helping you (or at least me) stay focused on what you’re doing.
   * **Limited “Chrome”.** This was one of the killer features of Chrome on its release (and how it got its name). They just got ride of so much of the stuff around the browser to focus on what you were doing. Arc takes this to the next level (you can even remove the URL bar by default!). Having more space for my web apps/sites is really nice.

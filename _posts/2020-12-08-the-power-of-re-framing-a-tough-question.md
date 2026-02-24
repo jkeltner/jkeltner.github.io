@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Power of Re-Framing a Tough Question
+date: 2020-12-08
 ---
 
 One summer during college, I ended up working at a small startup. There are so
@@ -9,6 +10,7 @@ my Mom thought I had dropped out of college to work there (I hadn’t). But none
 of those stories are the subject of this post — this post is about my
 compensation.
 
+<!--more-->
 Like many summer interns in the valley for very early stage startups, I was
 paid (partially) in stock grants. At the times this seemed AMAZING. I remember
 sitting in my dorm room doing the math on $10 / share exit and picking out the

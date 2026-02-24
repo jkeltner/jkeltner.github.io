@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My Favorite Way to Structure Presentations
+date: 2018-10-11
 ---
 
 In my line of work, I end up building a lot of presentations. While different
@@ -8,6 +9,7 @@ venues and formats often call for different styles, there is one general
 format/structure that I find almost always works well for any type of
 presentation.
 
+<!--more-->
 Give each slide a headline that is a full sentence. Reading the slide titles
 in order should tell a good story — the pieces should connect together well.
 On each slide, place evidence to support the claim made in the headline.

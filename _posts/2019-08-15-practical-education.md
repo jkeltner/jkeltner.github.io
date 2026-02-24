@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Practical Education
+date: 2019-08-15
 ---
 
 There is a lot of debate and consternation over the quality of the educational
@@ -8,6 +9,7 @@ system in the United States. While we have a higher education system that is
 the envy of the world, we seem to struggle in the K-12 arena on a number of
 international comparison metrics.
 
+<!--more-->
 However, I think both our higher education and K-12 systems are failing to
 properly prepare our students for the real world. While we teach many useful
 subjects in our schools, we give short shrift or completely omit many

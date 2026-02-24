@@ -1,12 +1,14 @@
 ---
 layout: post
 title: Input vs Output OKRs
+date: 2020-08-27
 ---
 
 I’ve written about OKRs before and I think they’re a great tool for
 individuals, teams, and companies to set clarify their important goals and
 focus on clear, specific metrics for success.
 
+<!--more-->
 Typically, OKRs should be “output” oriented. They are results (hence the name
 “key results”). They could be closed sales, increased users, improved
 profitability, etc. This focus on clear results is one of the defining

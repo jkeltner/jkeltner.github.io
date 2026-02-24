@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Great Hack
+date: 2019-08-13
 ---
 
 I just watched the new Netflix documentary [The Great
@@ -8,6 +9,7 @@ Hack](https://www.netflix.com/title/80117542). It’s really a deep dive into
 the Cambridge Analytical scandal and how it impacted both the Brexit campaign
 and the 2016 Presidential election in the United States.
 
+<!--more-->
 My overall take is that that movie has some interesting content, but is a bit
 over-wrought overall. I am extremely interested in the topic but found the
 movie less captivating than I had hoped.

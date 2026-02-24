@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Challenge with Chatbots
+date: 2017-10-02
 ---
 
 I continue to notice the conversation around machine learning and artificial
@@ -10,6 +11,7 @@ Alexa, Google Home) more broadly I find this a bit of a mystery as I think
 there easier and more impactful areas in finance to apply machine learning.
 Why the skepticism about chatbots? Here are my reasons:
 
+<!--more-->
   * **They are hard to do well.** This is true for a number of reasons. Chatbots generally require natural language processing (a difficult and not well-solved problem) and the ability to handle a wide variety of requests. You can simplify the problem by providing a menu of options, but that starts to look like a text-based IVR — which isn’t inspiring.
   * **Apps work pretty well.** Given that likely users of chatbots already have a bank’s mobile app we have to consider how much better chatbots will work than the existing apps. For instance, I can get to my account balance with just a fingerprint in most banking apps. The most common uses are reasonably well handled in most banking mobile apps today — and having to type out commands will likely take longer than a well-designed app-based interface.
 

@@ -1,12 +1,14 @@
 ---
 layout: post
 title: The Law of Unintended Consequences
+date: 2018-10-30
 ---
 
 It’s not a law that’s taught in school — or really anywhere. Typically this
 law we can learn only through experience. However, it may be one of the most
 important and under-rated laws anyone can understand to succeed in life.
 
+<!--more-->
 The reality is that most of the time things don’t work out the way we expect.
 Often our decisions have predictable outcomes — but there are usually also
 unintended consequences. Sometimes they’re positive — but all too often they

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Double-Opt-In Intros
+date: 2020-04-07
 ---
 
 Many people have written about the concept of the double-opt-in introduction,
@@ -13,6 +14,7 @@ these days Usually, one party has inherently opted in since they asked for the
 introduction and that’s what I want to talk about in this post — the right
 email asking for the introduction.
 
+<!--more-->
 However, as I was looking over posts on this concept I noticed a lack of
 detail on how to make the introducer’s job easy by sending the right
 introduction request. In fact, asking for an introduction for the double opt-

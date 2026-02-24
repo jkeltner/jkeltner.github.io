@@ -1,12 +1,14 @@
 ---
 layout: post
 title: Slack Customer Service
+date: 2018-08-02
 ---
 
 Slack is a company that has always impressed me with how they handle customer
 service. They take a customer friendly approach to a number of areas that
 traditional enterprise software companies handle very poorly.
 
+<!--more-->
 When we first set up on Slack, some people were active users and others were
 not. I would get emails from Slack about user inactivity — and they would
 credit my account back the cost of users not using the platform.

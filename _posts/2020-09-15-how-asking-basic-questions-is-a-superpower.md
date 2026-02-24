@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How Asking Basic Questions is a Superpower
+date: 2020-09-15
 ---
 
 I was having a conversation with a colleague recently and I gave them some
@@ -8,6 +9,7 @@ advice that I thought might be useful more broadly — ask the dumb question. I
 honestly think this is one of the best superpowers you can have — and luckily
 it requires no skill except for a bit of confidence and a lack of ego.
 
+<!--more-->
 Have you ever been in a meeting and heard something said and just not
 understood? And have you looked around the room and believed that everyone
 else knew what was going on? And did you decide not to ask your question

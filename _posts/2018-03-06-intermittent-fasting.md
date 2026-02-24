@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Intermittent Fasting
+date: 2018-03-06
 ---
 
 Late last year I had my annual physical. In general I’m in good health, but my
@@ -9,6 +10,7 @@ higher than it should be at my age. I also have a family history of heart
 disease and high cholesterol. He gave me a year to get my cholesterol down
 before he was going to put me on medication.
 
+<!--more-->
 That was a bit of a wake up call for me. I’m not in the greatest shape these
 days, but I generally get a decent amount of exercise and I’ve been quite
 happy to maintain my weight and not add on any more pounds as I’ve gotten

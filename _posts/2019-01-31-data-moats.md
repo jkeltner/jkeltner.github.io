@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Data Moats
+date: 2019-01-31
 ---
 
 I’d like to think that over the last 6.5 years at Upstart I’ve learned a
@@ -10,6 +11,7 @@ repeatedly is that a mediocre algorithm with great data will beat a great
 algorithm with mediocre data. Of course, having great models and robust data
 is obviously the best options…
 
+<!--more-->
 However, this focus on the quality and quantity of data represents a real
 opportunity. There will be a tremendous number of industries where ML
 techniques can be extremely valuable and where an early entrant could build a

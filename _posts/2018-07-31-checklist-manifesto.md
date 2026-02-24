@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Checklist Manifesto
+date: 2018-07-31
 ---
 
 I recently finished Atul Gawande’s book [The Checklist
@@ -10,6 +11,7 @@ aviation — and of some places where checklists aren’t used as widely as
 perhaps they should be (for instance, Gawande’s chosen profession of
 medicine).
 
+<!--more-->
 I also think that checklists can be incredibly useful in our daily lives. I
 use a few checklists on a very regular basis. In particular, I roughly follow
 David Allen’s [Getting Things Done](http://gettingthingsdone.com/) task

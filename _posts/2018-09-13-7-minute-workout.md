@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 7 Minute Workout
+date: 2018-09-13
 ---
 
 When I posted a while ago about my [Morning
@@ -13,6 +14,7 @@ running — and that eats up more time in the morning. While I do get up early
 enough to have the time — it’s hard to fit in things like the shower once my
 kids wake up and start occupying my time.
 
+<!--more-->
 
 However, I’ve found a nice compromise that has worked well for me — the 7
 minute workout. Popularized by [this New York Time

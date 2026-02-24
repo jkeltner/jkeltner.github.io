@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Better (simpler) golf stats
+date: 2021-01-05
 ---
 
 I’ve come to a hole-in-one (so far…)
 
+<!--more-->
 Golf fans these days are inundated with statistics on the pros. Perhaps the
 most useful of these is “strokes gained”, which shows how well a player is
 performing against the field for any given area of their game in terms of the

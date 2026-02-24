@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My Travel Tech Stack
+date: 2018-04-25
 ---
 
 I’ve heard from a lot of people that they enjoyed my post [iPad Pro: My Travel
@@ -10,6 +11,7 @@ travel tech stack looks like. I’ve been using this kit for a while, and it
 works remarkably well for me. I’m a big believer in travel that less is more —
 so this isn’t a huge list; but it works very well for me.
 
+<!--more-->
 
   * [**iPad Pro 10.5 "**](https://www.apple.com/ipad-pro/)**.** You can read my earlier post on this one. I’m enjoying this device so much that it’s generally the only device I take with me when I’m away from my desk — whether it’s for a trip or just a meeting. I’ve even debated getting the 12.9" version to make it more useful.
   * [**Kindle Oasis**](http://a.co/8V0KV8a)**.** I still love reading books on my Kindle. I’ve had a Kindle in my tech stack since the very first version and I’ve loved them all. I find the distraction-free reading environment wonderful — and a big help in reaching [my goal of reading 50 books this year](https://medium.com/@jkeltner/50-books-my-reading-goal-for-the-year-32fabebe6bc9).

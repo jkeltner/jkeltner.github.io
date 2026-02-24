@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Productive Procrastination
+date: 2019-03-25
 ---
 
 One of my favorite professors at Stanford was a philosophy professor named
@@ -10,6 +11,7 @@ After one particularly animated debate, I remember Professor Perry leaning
 over and telling me “I actually agree with you, but they don’t pay me to agree
 with you.”
 
+<!--more-->
 But beyond the practice in critical thinking and testing my assumptions, one
 of the most practical things he taught me was the idea of productive
 procrastination. Professor Perry believed (and experience has taught me) that

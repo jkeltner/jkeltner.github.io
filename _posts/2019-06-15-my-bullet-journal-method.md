@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My Bullet Journal Method
+date: 2019-06-15
 ---
 
 If you’ve read my previous posts, you might have noticed that I am a bit of a
@@ -11,6 +12,7 @@ switching is due to a short attention span or real efforts at optimizing my
 workflow. Or maybe I just haven’t found a system that really works for me
 (yet…).
 
+<!--more-->
 Recently I’ve been trying the [Bullet Journal](https://bulletjournal.com)
 method for managing my tasks and notes. For those who are not as familiar,
 Bullet Journaling is a system of using aa paper notebook to track notes and

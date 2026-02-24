@@ -1,6 +1,7 @@
 ---
 layout: post
 title: See One, Do One, Teach One
+date: 2019-07-31
 ---
 
 When my wife attended medical school, there was a simple mantra about learning
@@ -8,6 +9,7 @@ that I thought was very powerful: “see one, do one, teach one.” To really
 understand how to perform a given procedure you must first see one done, then
 do one yourself, and finally, teach someone else to do one.
 
+<!--more-->
 Too often we think of learning as stopping at the first step. We read a book,
 take a class or watch an online video and think that we have “learned”
 something. This may be true for purely informational matters (did you know

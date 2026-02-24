@@ -1,10 +1,12 @@
 ---
 layout: post
 title: My Best Marriage Advice
+date: 2017-10-06
 ---
 
 ### Pick Fewer Battles
 
+<!--more-->
 > “Choose your battles wisely.”
 
 I can’t begin to count how many times I’ve been given this advice — or how

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My News Diet
+date: 2018-02-13
 ---
 
 We live in a world of over-abundance of information. It is remarkable how many
@@ -9,6 +10,7 @@ compete for your attention. It is easy to get overwhelmed by all the different
 options — and to waste an incredible amount of time sifting through them all
 with little value to show for it.
 
+<!--more-->
 In January, [I gave up Twitter for the month](https://medium.com/@jkeltner/no-
 twitter-january-c2357c9ffff1) and found it amazingly relaxing — with little
 lost in terms of information. For the time being, I’ve decided to continue to

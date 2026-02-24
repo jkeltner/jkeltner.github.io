@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Damn Right! Behind the Scenes with Berkshire Hathaway Billionaire Charlie
+date: 2018-11-27
 ---
 
 I just finished[ this
@@ -9,6 +10,7 @@ Munger. It’s bit outdated (originally published in 2000), but still a very
 interesting read. I increasingly find myself drawn to biographies and
 histories in my reading.
 
+<!--more-->
 This book contains an interesting personal story with a lot of interesting
 background on the relationship between Charlie Munger and Warren Buffet. I
 found Munger to be a fascinating character full of tons of wisdom. A few of my

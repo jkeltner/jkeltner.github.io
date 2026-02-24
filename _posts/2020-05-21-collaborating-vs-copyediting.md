@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Collaborating vs Copyediting
+date: 2020-05-21
 ---
 
 As an **EARLY** user of GSuite’s collaboration suite, I’ve been a big fan of
@@ -11,6 +12,7 @@ document, presentation, or spreadsheet. I also think the comment feature is
 well through through and a huge value for teams (though why comments work so
 poorly on iPad, I still don’t understand).
 
+<!--more-->
 However, as I’ve used Google Docs more and more I find that sometimes the
 collaborative features seem to get people responding to me in the wrong mode.
 Specifically, I will often draft something like a document or a presentation

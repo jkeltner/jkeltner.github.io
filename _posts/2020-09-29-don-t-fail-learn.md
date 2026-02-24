@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Don’t Fail — LEARN
+date: 2020-09-29
 ---
 
 I’m not the first person to say this, but I really hate the “fail fast”
@@ -8,6 +9,7 @@ mantra. The whole concept of being okay with failure doesn’t make any sense to
 me. I don’t know anyone who thinks failure is a good thing or something to aim
 for. We are all looking to succeed.
 
+<!--more-->
 However, there is a core of truth in this idea — the critical importance of
 learning quickly. This is a subtle shift in thinking, but an important one.
 The goal of most projects should be to learn — to test a theory. Maybe you’re

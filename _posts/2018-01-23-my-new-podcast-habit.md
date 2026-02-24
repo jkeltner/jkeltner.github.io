@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My New Podcast Habit
+date: 2018-01-23
 ---
 
 In the last 6 months or so I have started listening to podcasts. I had alway
@@ -10,6 +11,7 @@ really enjoying it. I generally learn something really interesting and useful
 from the content and it’s a very engaging format. I’ve been really surprised
 by how much I enjoy podcasts.
 
+<!--more-->
 One thing that’s really helped me get through a lot of content is having a
 podcast app that allows me to listen to podcasts at a higher speed. I
 currently use [Overcast](https://itunes.apple.com/us/app/overcast-podcast-

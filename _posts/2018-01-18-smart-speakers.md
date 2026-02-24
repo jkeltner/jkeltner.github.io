@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Smart Speakers
+date: 2018-01-18
 ---
 
 I love new gadgets and I have high hopes for voice interfaces in the future.
@@ -8,6 +9,7 @@ So, I’ve been trying a Google Home and two Amazon Echo Dots along with Siri on
 my iPhone. I’ve had most of these devices for a while now, but figured I would
 share my experiences.
 
+<!--more-->
 All of the devices are pretty good at understanding my requests — or at least
 at interpreting the words I say to them. I fully expected Google to have the
 best natural language processing capabilities, and that is by and large true.

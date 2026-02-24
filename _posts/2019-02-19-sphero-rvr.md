@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sphero RVR
+date: 2019-02-19
 ---
 
 I really believe that the best way to get kids to engage with engineering
@@ -10,6 +11,7 @@ that we should have more [top-down learning](https://jeffkeltner.com/top-down-
 learning/), and less bottoms-up learning — especially in complex areas like
 hardware and software engineering.
 
+<!--more-->
 I’ve had some luck getting my kids excited about coding by using a
 programmable drone (you can read more [here](https://jeffkeltner.com/flying-
 drones-with-code/) and [here](https://jeffkeltner.com/flying-drones-with-

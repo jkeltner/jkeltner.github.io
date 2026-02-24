@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Can Slack become the one communication tool to rule them all?
+date: 2019-04-29
 ---
 
 I was an early and vocal fan of Slack. I helped bring it into
@@ -11,6 +12,7 @@ the results are decidedly mixed. I don’t blame Slack here, but I think we are
 all struggling to figure out how to manage our technology tools to be more
 productive — and avoid having them become non-stop distractions.
 
+<!--more-->
 Slack has really taken over the bulk of my internal communications. It has
 become an invaluable tool for me. Let’s start with the things that make Slack
 a great tool.

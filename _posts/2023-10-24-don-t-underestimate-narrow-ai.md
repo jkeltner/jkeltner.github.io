@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Don’t Underestimate Narrow AI
+date: 2023-10-24
 ---
 
 created by DALL·E 3 through ChatGPT interface.
 
+<!--more-->
 AI is a hot topic these days — though what exactly counts as AI is often
 debated. I’m sometimes reminded of the quote often attributed to Alan Kay
 “Technology is anything that wasn’t around when you were born.” There is so

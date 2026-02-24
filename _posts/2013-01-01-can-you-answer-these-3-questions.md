@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Can you answer these 3 questions?
+date: 2013-01-01
 ---
 
 #### What’s really going on in your customer’s mind
 
+<!--more-->
 To be successful, every sale must answer three questions for your customer.
 Clearly this is a simple model of how a sales process works, but I have found
 it very useful to think of my customer’s asking these three question, in this

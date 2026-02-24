@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Golf Statistics
+date: 2016-01-18
 ---
 
 #### A better way to track and improve your golf game
 
+<!--more-->
 Late last year I attended the [Pelz Short Game
 School](http://www.pelzgolf.com/golfschools/aboutlocation.aspx?location=3-Day-Golf-Schools)
 in Palm Springs with my friend Jason. If you’re interested in learning a lot

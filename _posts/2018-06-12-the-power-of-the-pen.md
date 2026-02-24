@@ -1,10 +1,12 @@
 ---
 layout: post
 title: The power of the pen
+date: 2018-06-12
 ---
 
 #### Stop buying cards and start writing them!
 
+<!--more-->
 A few years ago I gave up on buying cards for holidays, birthdays, etc. If I’m
 being honest this was less of a decision and more of a necessity since I had
 forgotten to buy a card for some occasion and was left with no option but to

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Flying Drones with Google Assistant
+date: 2018-04-13
 ---
 
 I’m glad so many people enjoyed my post on [Flying Drones with
@@ -14,6 +15,7 @@ However, one of my colleagues said she was bringing her kids in to see the
 project — and that they already tried the basics but wanted to “learn from the
 pro.”
 
+<!--more-->
 Uh oh. I’m definitely not a pro — so I decided I needed to add another element
 to the original drone flying project so that we could teach the kids
 something. And the something we added, was using Google Assistant to kick off

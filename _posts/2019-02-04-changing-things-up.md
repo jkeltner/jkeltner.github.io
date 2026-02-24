@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Changing things up
+date: 2019-02-04
 ---
 
 For some reason, about every 6 months I feel the need to change the way my
@@ -11,6 +12,7 @@ again and move back to the simpler setup. Here’s what my desk looks like now
 (thanks to my wonderful wife for giving me the bamboo to bring a little life
 to the room).
 
+<!--more-->
 images-1.medium.com/max/800/0*8J3hwMITGClSjTfq)![](https://cdn-
 images-1.medium.com/max/800/0*tBjkaT5ENXEwzA2N)
 

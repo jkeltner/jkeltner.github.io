@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Better Frame for the Google Anti-trust Case
+date: 2020-11-10
 ---
 
 I found the anti-trust case against Google extremely under-whelming. There
@@ -10,6 +11,7 @@ analysis on [Stratechery](https://stratechery.com)). However, I do want to
 make a comment about framing — because I see many observers using what I think
 is the wrong frame when discussing this issue.
 
+<!--more-->
 One of the core complaints in the lawsuit is that Google has locked up
 distribution for search on mobile by paying Apple to be the default search
 engine (I will leave the Android question aside here, as it is more

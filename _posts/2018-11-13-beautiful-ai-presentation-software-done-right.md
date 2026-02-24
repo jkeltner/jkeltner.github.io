@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Beautiful[AI] — Presentation software done right
+date: 2018-11-13
 ---
 
 This weekend my wife introduced me to
@@ -10,6 +11,7 @@ it, so I had to take a look. It turns out, she’s right! (I already knew she’
 much smarter than I am, so this didn’t surprise me). It is a wonderfully
 designed piece of software.
 
+<!--more-->
 images-1.medium.com/max/800/0*vTS0fQOb1N1VL-hM)![](https://cdn-
 images-1.medium.com/max/800/0*ulioTUbVUGUNlH5A)
 

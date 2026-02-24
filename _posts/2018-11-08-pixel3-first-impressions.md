@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pixel3 First Impressions
+date: 2018-11-08
 ---
 
 When I left Google 6.5 years ago, I decided it was time to ditch Android and
@@ -8,6 +9,7 @@ try an iPhone instead. I’ve been a massive fan of pretty much all my iPhone
 and iOS in general since then. Since our phones are our primary cameras now, I
 tend to upgrade frequently to have the best camera I can.
 
+<!--more-->
 However, I’m increasingly convinced that machine learning advancements will
 drive the future of software and also many improvements in phone photography
 and that Google is much better positioned to deliver in that area than Apple.

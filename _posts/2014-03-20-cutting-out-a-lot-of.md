@@ -1,10 +1,12 @@
 ---
 layout: post
 title: “Cutting out a lot of people”
+date: 2014-03-20
 ---
 
 ## “Cutting out a lot of people”
 
+<!--more-->
 
 
 I’ve been meaning to start writing more again. I was recently inspired by my

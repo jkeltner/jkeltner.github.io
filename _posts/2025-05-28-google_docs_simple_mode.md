@@ -1,10 +1,12 @@
 ---
 layout: post
 title: A Simple Mode for Google Docs
+date: 2025-05-28
 ---
 
 I’ve been a fan of Google Docs for years. The collaboration features are unmatched—being able to edit documents together, leave comments, and see changes in real time has fundamentally changed how I work with others. It’s one of those rare tools that genuinely makes teamwork easier and better.
 
+<!--more-->
 But as the product has evolved, it’s started to feel… heavier. I understand why Google has pushed for feature parity with Microsoft Word—adding formatting controls, layout options, and advanced styles. But sometimes I just want all that to go away.
 
 I don’t want to think about margins or font types or line spacing. I don’t want to scroll through menus or figure out why one paragraph has a different style from the next. I just want to write.

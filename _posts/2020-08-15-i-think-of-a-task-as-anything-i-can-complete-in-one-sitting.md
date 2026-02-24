@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I think of a task as anything I can complete in one sitting.
+date: 2020-08-15
 ---
 
 I think of a task as anything I can complete in one sitting. If it takes
@@ -11,3 +12,4 @@ defined. An objective is usually more outcome oriented and less well defined.
 For instance, lose X pounds. Even though it's clearly defined - the required
 actions to achieve the objective are not entirely clear.
 
+<!--more-->

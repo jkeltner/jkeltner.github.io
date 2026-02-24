@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Taking notes on paper
+date: 2018-09-11
 ---
 
 I see this advice a lot of places, but I really enjoy taking notes on paper. I
@@ -10,6 +11,7 @@ I read a post about that topic. That certainly seems reasonable to me, but I
 honestly haven’t read any of the research. I find taking notes on paper
 helpful for a few different reasons:
 
+<!--more-->
   * **It helps me focus.** Unlike my laptop or my iPad, my paper notebooks don’t have access to email or Slack — a big help in making sure I focus on the topic at hand.
   * **I have to synthesize.** I type faster than I write, so I’m tempted to type up notes about nearly everything that’s said. Writing by hand forces to me synthesize and abbreviate — which often helps me to understand.
   * **It works everywhere.** In some of my meetings, pulling up a laptop or iPad just isn’t acceptable. Taking notes on paper works for everyone.

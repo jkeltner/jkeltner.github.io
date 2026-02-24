@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Faster (and better!) golf with fewer clubs
+date: 2021-01-20
 ---
 
 Almost a year ago, a friend of mine mentioned “speed golf” to me. For those
@@ -9,6 +10,7 @@ overall score is your number of strokes plus your time in minutes. Speed golf
 players typically play with smaller bags and reduced sets of clubs — and often
 finish 18 holes in under an hour and a half.
 
+<!--more-->
 While I haven’t taken to literally running the course like true speed golfers,
 I have picked up my pace of play. These days, I like to finish 18 holes solo
 in right at 2 hours. It’s a quick pace — but totally doable if you stay

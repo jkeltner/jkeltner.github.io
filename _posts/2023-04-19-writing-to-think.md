@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Writing to Think
+date: 2023-04-19
 ---
 
 I [recently announced](https://www.linkedin.com/posts/jeffkeltner-after-more-
@@ -10,6 +11,7 @@ but I tend to be someone who looks forward and not backward — so I’ve been
 enjoying all the questions about what I’m going to do next. And the honest
 answer is, I don’t have any substantial plans right now.
 
+<!--more-->
 However, I do know that I want to spend more time reading (and thinking). In
 particular, I plan to spend time diving into the newest areas of AI (a
 landscape which is seemingly shifting by the hour!) and the connected topics

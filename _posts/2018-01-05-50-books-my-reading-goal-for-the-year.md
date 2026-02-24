@@ -1,10 +1,12 @@
 ---
 layout: post
 title: 50 Books — My reading goal for the year
+date: 2018-01-05
 ---
 
 favorite reading option — Kindle Voyage
 
+<!--more-->
 Over the holiday break, I was reading Senator Ben Sasse’s book [-The Vanishing
 American Adult-](https://www.amazon.com/Vanishing-American-Adult-Coming-
 Crisis-

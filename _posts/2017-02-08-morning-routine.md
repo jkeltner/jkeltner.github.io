@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Morning Routine
+date: 2017-02-08
 ---
 
 I’ve never found anything that helps me approach each day with energy and
@@ -9,6 +10,7 @@ my kids are even up I feel like I’ve already won the day. I also feel in
 control instead of just responding to whatever comes my way first. It’s a
 great feeling and really kick starts my day!
 
+<!--more-->
 Below is my routine. I don’t think there’s any magic to these particular
 actions — but this is what I try to do first thing. I do all of this before I
 look at email or the news or anything really. It is critical that I don’t let

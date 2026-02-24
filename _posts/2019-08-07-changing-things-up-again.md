@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Changing Things Up (Again)
+date: 2019-08-07
 ---
 
 I [wrote a while ago](https://jeffkeltner.com/changing-things-up/) about how I
@@ -8,6 +9,7 @@ like to change the design of my desk on occasion, really just for the sake of
 changing things. The spice of changing things up just seems to help re-
 invigorate me from time to time.
 
+<!--more-->
 Well, I did so again recently. I moved back to using a monitor. I find the
 extra space especially helpful when I’m doing a lot of video conferences with
 working sessions where I need to actually review a document and watch a video

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 5 Considerations for Managing Credit Through a Crisis
+date: 2020-04-27
 ---
 
 We are living through unprecedented times and financial institutions are a
@@ -12,6 +13,7 @@ considerations I am thinking about for how to navigate this environment in the
 short term that will pay off, both for the company and for the borrowers we
 serve, in the long run.
 
+<!--more-->
 ### 1\. Take care of your customers.
 
 First, and most importantly, we all need to make sure we are doing a good job

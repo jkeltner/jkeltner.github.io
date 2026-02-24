@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Giving Great Presentations
+date: 2016-12-14
 ---
 
 #### An east five step process
 
+<!--more-->
 ### Introduction
 
 I vividly remember my first real public speaking experience. I was in 8th

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My Favorite (Current) Productivity Hack
+date: 2020-09-09
 ---
 
 These headphones are my favorite productivity hack at the moment. For some
@@ -12,6 +13,7 @@ through a long list of action items. I find this has been particularly helpful
 during the pandemic work-from-home environment as there is just more noise to
 block out.
 
+<!--more-->
 I have also recently greatly enjoyed the background music (if that’s the right
 word) available through [brain.fm](https://brain.fm). While I love music,
 sometimes songs can be distracting and brain.fm is all instrumental (or

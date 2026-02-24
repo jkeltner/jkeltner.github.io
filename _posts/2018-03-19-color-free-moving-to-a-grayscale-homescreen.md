@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Color Free — Moving to a Grayscale Homescreen
+date: 2018-03-19
 ---
 
 As I recently wrote, [I have begun listening to more
@@ -14,6 +15,7 @@ intentionally) designed to attract our attention — perhaps demand is a better
 word. I do find this overall “addiction” that we experience unhealthy, so I
 was interested in this idea.
 
+<!--more-->
 I’ll be honest that I found the idea that just turning off color was going to
 make a big difference in my a bit strange and was unconvinced that it would
 make a real difference. After all, was it really just the color that was

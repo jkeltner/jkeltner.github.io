@@ -6,6 +6,7 @@ date: 2025-06-02
 
 We don’t yet know the destination, but we do know the path forward. At least, we know how to start walking it.
 
+<!--more-->
 AI’s impact on education is inevitable. As a parent, AI advisor, lifelong learner, and school trustee, I’ve had more than a few conversations about what to do next. One thing is clear: the cost of waiting is higher this time. In past tech shifts—whether the internet, mobile, or 1:1 devices—schools had time to prepare, debate, and cautiously adopt. AI doesn’t afford us that luxury. This wave is already here, and already in students’ hands.
 
 So, what’s a school to do?

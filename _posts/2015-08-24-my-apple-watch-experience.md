@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My Apple Watch Experience
+date: 2015-08-24
 ---
 
 After debating it for a while, I ended up buying an Apple Watch a few weeks
@@ -10,6 +11,7 @@ find the watch as it exists today pretty ‘meh’. I think it is a fundamentall
 compromised device that does a few things well, many things poorly, but points
 the way to a compelling future.
 
+<!--more-->
 ### What it does well
 
 The first thing people always ask about the watch is “What do you use it for?”

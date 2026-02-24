@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Precision Inside of Accuracy
+date: 2019-03-18
 ---
 
 Many people use the words -precision- and -accuracy- more or less
 interchangeably. However, they do have specific and quite different meanings.
 
+<!--more-->
 **Precision** is defined as how close together a series of measurements are.
 Measurements can be quite precise and yet inaccurate.
 

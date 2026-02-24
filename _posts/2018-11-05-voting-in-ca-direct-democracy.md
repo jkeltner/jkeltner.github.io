@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Voting in CA — Direct Democracy
+date: 2018-11-05
 ---
 
 Over the weekend I sent in my mail-in ballot for the Election this week.
@@ -9,6 +10,7 @@ voting is a critical responsibility for all citizens in our democracy. It’s
 not just a right or a privilege, but an obligation we all take on to become
 educated about critical issues and make our voice heard.
 
+<!--more-->
 However, the level of voter control given to California voters through the
 ballot proposition mechanism seems entirely inappropriate and misguided to me.
 I’m a reasonably intelligent person and I try hard to be well-informed on

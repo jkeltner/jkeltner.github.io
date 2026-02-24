@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Book Review - Range
+date: 2019-07-25
 ---
 
 I recently finished [Range — Why Generalists Triumph in a Specialized
@@ -12,6 +13,7 @@ of interests to explore early in life, early in a career, and over time can
 actually be key drivers to greater success and more innovative thinking. There
 were two reasons this book really resonated with me.
 
+<!--more-->
 First, as a father of two young kids, the question of early specialization in
 sports, in particular, is a constant question. I have generally tried to keep
 sports fun and engaging for my sons — without pushing them too hard to pick a

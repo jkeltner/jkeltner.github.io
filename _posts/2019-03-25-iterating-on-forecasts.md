@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Iterating on Forecasts
+date: 2019-03-25
 ---
 
 I [recently wrote](https://jeffkeltner.com/precision-inside-of-accuracy/)
@@ -9,6 +10,7 @@ sometimes at the expense of accuracy. In building models to predict or
 forecast future outcomes, it’s important to focus on accuracy over precision —
 particularly when you first start making forecasts.
 
+<!--more-->
 However, another key area to focus on is how your forecasts — and the models
 you used to make them — change over time. As you gain a deeper understanding
 of the area you are forecasting, your models should gain complexity over time.

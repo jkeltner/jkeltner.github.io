@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Running Docs
+date: 2021-01-26
 ---
 
 I’m not sure what the right term is for people like me, but there should be
@@ -10,6 +11,7 @@ and try to get better at managing myself and my tasks. And some of it is
 probably a bit unhealthy. I know there are others like me — who just have to
 try the latest tool / technique — I’m just not sure what they’re called.
 
+<!--more-->
 Given my propensity to frequent change, I’m hesitant to share my current
 system with folks since I’m sure I’ll find a flaw in it soon. However, when I
 find a technique that really shows value and lasts over time, I figure it’s

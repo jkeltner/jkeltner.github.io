@@ -1,6 +1,7 @@
 ---
 layout: post
 title: User Experience as a Moat
+date: 2023-01-03
 ---
 
 I have a habit of creating a photo book every year for our family — and also
@@ -11,6 +12,7 @@ think there is also a lesson about product design that can be learned from my
 experience — one that will be applicable to the coming onslaught of AI
 companies.
 
+<!--more-->
 There is one simple key for how I get these books finished quickly and
 consistently — I never let the perfect be the enemy of the good. I could use
 more complex layouts, do more post-processing to make images look better, etc

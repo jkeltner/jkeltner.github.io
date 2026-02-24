@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Make the Audience Your Hero
+date: 2018-11-29
 ---
 
 I was recently watching a few presentations which reminded me of one of the
 key aspects of a good presentation: make the audience the hero of your story!
 
+<!--more-->
 We all forget this from time to time. We start with ourselves, our company,
 our product, what makes us special, etc, etc. It’s only natural. After all,
 that’s the topic we know best — and what we really want to tell the audience

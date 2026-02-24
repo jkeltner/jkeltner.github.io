@@ -1,11 +1,13 @@
 ---
 layout: post
 title: HP Chromebook x2 — Great Device for Kids (and maybe adults too)
+date: 2019-01-23
 ---
 
 images-1.medium.com/max/800/0*cqZgBLTs2LxPSKpi)![](https://cdn-
 images-1.medium.com/max/800/0*14zGlLEzc9gxFwnq)
 
+<!--more-->
 For Christmas, Santa brought my two boys an HP Chromebook x2 and so far the
 device has been a great fit for their needs — and I’ve been impressed by it as
 well. At 7 and 9 years old, I wasn’t completely sure that my sons needed their

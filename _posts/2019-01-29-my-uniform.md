@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My “Uniform”
+date: 2019-01-29
 ---
 
 A while ago I decided to simplify my work attire. I was probably inspired by
@@ -11,6 +12,7 @@ laziness. I decided that I would just adopt a navy polo and jeans or khakis as
 my typical work attire. It seemed like a decent, simple look and was something
 that I mostly already owned.
 
+<!--more-->
 A few months later, I’m really loving the overall model of a simple wardrobe.
 I’m not adamant about always wearing the same thing, but I have greatly
 simplified my closet overall. I’m really keeping to the navy/khaki theme with

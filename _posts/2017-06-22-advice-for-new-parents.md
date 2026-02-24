@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Advice for new parents
+date: 2017-06-22
 ---
 
 #### Be flexible and don’t beat yourself up.
 
+<!--more-->
 I rarely give parenting advice. New parents seem to get more advice than they
 know what to do with and much of it is contradictory. Experts seem to line up
 on both sides of every question — and change their minds frequently. There may

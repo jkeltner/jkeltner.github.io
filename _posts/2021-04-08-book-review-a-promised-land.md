@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Book Review- A Promised Land
+date: 2021-04-08
 ---
 
 ![Promised Land book cover image.](https://cdn-
 images-1.medium.com/max/800/0*-Rxm9sVwto5KZ6Xk)
 
+<!--more-->
 I just finished former President Barrack Obama’s book [A Promised
 Land](https://www.amazon.com/Promised-Land-Barack-Obama-
 ebook/dp/B08GJZFBYV/ref=tmm-kin-swatch-0?-encoding=UTF8&qid=&sr=) and I highly

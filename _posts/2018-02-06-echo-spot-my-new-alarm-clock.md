@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Echo Spot — my new alarm clock
+date: 2018-02-06
 ---
 
 My house was already pretty well “connected” with two [Amazon Echo
@@ -15,6 +16,7 @@ White/dp/B073SRJD46/ref=sr-1-2?ie=UTF8&qid=1517926139&sr=8-2&keywords=echo+spot)
 and some of the positive review it received, so I recently got one of those
 for my bedroom.
 
+<!--more-->
 I was partly inspired to get the Spot because I had been looking for an alarm
 clock. I like being able to glance over and check the time and my phone was
 not well suited to that. I also like the idea of explicitly not keeping my

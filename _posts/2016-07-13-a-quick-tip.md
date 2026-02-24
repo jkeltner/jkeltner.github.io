@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Quick Tip
+date: 2016-07-13
 ---
 
 I love quick and simple tricks that help solve real problems. I also love
@@ -10,6 +11,7 @@ invites. For example — my UberConference number or my Calendly scheduling
 link. And I have found a new, very easy way to access them — through
 [1Password](https://1password.com/) Mini!
 
+<!--more-->
 [1Password](https://1password.com/) is a fabulous password manager. I also use
 it to securely store critical information, like SSNs, Passport numbers, bank
 account numbers, etc and share them with my wife. However, I recently added a
