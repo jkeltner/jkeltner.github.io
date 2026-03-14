@@ -44,8 +44,27 @@ h1, h2, h3, h4, h5, h6 {
 
 // ── Homepage intro ──────────────────────────────────────
 .home-intro {
-  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 1.75rem;
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
+  border-bottom: 3px solid $gold;
+}
 
+.home-intro-avatar {
+  flex-shrink: 0;
+
+  img {
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid $gold;
+  }
+}
+
+.home-intro-text {
   h1 {
     font-family: $heading-font-family;
     font-size: 2rem;
@@ -60,13 +79,26 @@ h1, h2, h3, h4, h5, h6 {
     color: #64748b;
     font-size: 1.05rem;
     margin-bottom: 0;
+    line-height: 1.55;
   }
 }
 
-.home-intro + hr {
-  border: none;
-  border-top: 1px solid $border-color-01;
-  margin-bottom: 2rem;
+@media screen and (max-width: 500px) {
+  .home-intro {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+// ── Post list heading ───────────────────────────────────
+.post-list-heading {
+  font-family: $heading-font-family;
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: $navy;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.5rem;
 }
 
 // ── Post list (homepage) ────────────────────────────────
@@ -80,6 +112,15 @@ h1, h2, h3, h4, h5, h6 {
 
     &:last-child {
       border-bottom: none;
+    }
+
+    // Excerpts render as bare <p> tags after the <h3>
+    > p {
+      margin-top: 0.35rem;
+      margin-bottom: 0;
+      font-size: 0.95rem;
+      color: #4a5568;
+      line-height: 1.55;
     }
   }
 
@@ -105,12 +146,6 @@ h1, h2, h3, h4, h5, h6 {
     color: #94a3b8;
   }
 
-  .post-excerpt {
-    margin-top: 0.35rem;
-    font-size: 0.95rem;
-    color: #4a5568;
-    line-height: 1.55;
-  }
 }
 
 // ── Post pages ──────────────────────────────────────────
