@@ -278,6 +278,84 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+// ── Search page ────────────────────────────────────────
+#search-container {
+  margin-top: 0.5rem;
+}
+
+#search-form {
+  margin-bottom: 1.5rem;
+}
+
+#search-input {
+  width: 100%;
+  padding: 0.65rem 1rem;
+  font-family: $base-font-family;
+  font-size: 1rem;
+  border: 2px solid $border-color-01;
+  border-radius: 6px;
+  outline: none;
+  transition: border-color 0.2s;
+
+  &:focus {
+    border-color: $bright-blue;
+  }
+}
+
+.search-count {
+  font-size: 0.9rem;
+  color: #94a3b8;
+  margin-bottom: 1rem;
+}
+
+.search-no-results {
+  color: #94a3b8;
+  font-style: italic;
+}
+
+.search-results-list {
+  list-style: none;
+  margin-left: 0;
+
+  .search-result-item {
+    padding: 1rem 0;
+    border-bottom: 1px solid $border-color-01;
+
+    &:last-child {
+      border-bottom: none;
+    }
+
+    .post-meta {
+      font-size: 0.85rem;
+      color: #94a3b8;
+    }
+
+    h3 {
+      font-family: $heading-font-family;
+      font-size: 1.2rem;
+      font-weight: 600;
+      margin-bottom: 0.25rem;
+
+      a {
+        text-decoration: none;
+        color: $navy;
+
+        &:hover {
+          color: $bright-blue;
+        }
+      }
+    }
+
+    p {
+      margin-top: 0.35rem;
+      margin-bottom: 0;
+      font-size: 0.95rem;
+      color: #4a5568;
+      line-height: 1.55;
+    }
+  }
+}
+
 // ── Footer ──────────────────────────────────────────────
 .site-footer {
   border-top: 1px solid $border-color-01;
