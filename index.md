@@ -9,6 +9,6 @@ list_title: Latest Posts
   </div>
   <div class="home-intro-text">
     <h1>Hey, I'm Jeff.</h1>
-    <p>{{ site.description }}</p>
+    <p>Maker-of-trouble, stirrer-of-pots. I'm the co-host of <a href="https://www.whattheai.fm">What the AI?!</a> and I write about AI, technology, and policy.</p>
   </div>
 </div>

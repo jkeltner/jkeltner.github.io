@@ -12,7 +12,7 @@ permalink: /about/
     <div class="about-bio">
       <h1>Jeff Keltner</h1>
       <p>
-        Jeff is the co-host of the podcast <em><a href="https://www.whattheai.fm">What the AI?!</a></em>, advises startups, and serves on the Board of Trustees of the Polytechnic School.
+        Jeff is the co-host of the podcast <em><a href="https://www.whattheai.fm">What the AI?!</a></em> and advises startups.
       </p>
       <p>
         Jeff was a founding team member at <strong>Upstart</strong>, the leading AI lending marketplace, where he led business development, strategic partnerships, and new initiatives. He also served as the host of the weekly podcast <em>Leaders in Lending</em>.
