@@ -33,6 +33,7 @@ permalink: /about/
       <li><a href="https://www.linkedin.com/in/jeffkeltner">LinkedIn</a></li>
       <li><a href="https://x.com/jkeltner">X / Twitter</a></li>
       <li><a href="https://github.com/jkeltner">GitHub</a></li>
+      <li><a href="https://jkeltner.substack.com">Substack</a></li>
     </ul>
   </div>
 

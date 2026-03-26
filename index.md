@@ -9,6 +9,6 @@ list_title: Latest Posts
   </div>
   <div class="home-intro-text">
     <h1>Hey, I'm Jeff.</h1>
-    <p>Maker-of-trouble, stirrer-of-pots. I'm the co-host of <a href="https://www.whattheai.fm">What the AI?!</a> and I write about AI, technology, and policy.</p>
+    <p>Co-host of <a href="https://www.whattheai.fm">What the AI?!</a> podcast. I write about AI, technology, and the choices we're making with both. Previously: Upstart (founding team), Google. <a href="https://jkeltner.substack.com">Subscribe on Substack</a> to get new posts by email.</p>
   </div>
 </div>

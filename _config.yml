@@ -60,5 +60,6 @@ minima:
     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jeffkeltner" }
     - { platform: x,              user_url: "https://x.com/jkeltner" }
     - { platform: github,         user_url: "https://github.com/jkeltner/" }
+    - { platform: substack,      user_url: "https://jkeltner.substack.com" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
