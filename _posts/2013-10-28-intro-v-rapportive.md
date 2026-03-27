@@ -4,10 +4,6 @@ title: Intro v Rapportive
 date: 2013-10-28
 ---
 
-## Intro v Rapportive
-
-<!--more-->
-
 [Rapportive](http://rapportive.com/) is one of my favorite Chrome extensions.
 If you haven’t use it (and you’re a Gmail user) go install it now. Rapportive
 adds a small widget to the right side of your Gmail and brings in information

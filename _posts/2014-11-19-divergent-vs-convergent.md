@@ -4,11 +4,6 @@ title: Divergent vs Convergent
 date: 2014-11-19
 ---
 
-## Divergent vs Convergent
-
-<!--more-->
-
-
 I’m generally a “digital” guy. I had palm pilots back in the day and loved
 getting the first blackberries. I’m often the first person I know to try any
 new service that comes out just to see how it works. But I still find that

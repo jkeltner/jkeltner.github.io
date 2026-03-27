@@ -4,11 +4,6 @@ title: “Cutting out a lot of people”
 date: 2014-03-20
 ---
 
-## “Cutting out a lot of people”
-
-<!--more-->
-
-
 I’ve been meaning to start writing more again. I was recently inspired by my
 friend Glenn Wilson’s 30-day challenge to [write a blog post every
 day](http://glennwilsonblog.blogspot.com/2014/03/a-few-lessons-learned-about-

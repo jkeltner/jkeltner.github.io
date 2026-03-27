@@ -14,9 +14,7 @@ Here’s a better way: think of the AI ecosystem as made up of four key componen
 
 ### **The Framework: Mapping the AI Ecosystem**
 
-Press enter or click to view image in full size
-
-![img](https://miro.medium.com/v2/resize:fit:1400/1*B2SRRfpngXxEhyouBMbWDA.png)
+![AI ecosystem framework: cars, roads, buses, and traffic laws](/assets/images/ai-car-bus-road-framework.png)
 
 **Cars** are like ChatGPT, Claude, Midjourney, or domain-specific prediction tools in finance or healthcare. The market thrives on competition and diversity here. We want lots of options built for different needs. Government should regulate for safety, not build the engines.
 

@@ -4,8 +4,7 @@ title: Reflections on Science and War
 date: 2018-08-28
 ---
 
-![IMG-0354](https://cdn-images-1.medium.com/max/800/0*A1NdymlaD9yR-paY.jpg)The
-Enola Gay B29 that dropped an atomic bomb on Hiroshima, Japan.
+![The Enola Gay B29 that dropped an atomic bomb on Hiroshima, Japan](/assets/images/enola-gay-b29.jpg)
 
 <!--more-->
 I recently returned from a trip to DC with my family. On our way out of town,
