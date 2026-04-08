@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stop Telling AI What You Want — Show It"
-date: 2026-04-09
+date: 2026-04-08
 ---
 
 Most advice about working with AI boils down to some version of "be specific about what you want." Write a better prompt. Describe the output in detail. Give clear instructions. That's fine — but I've found there's a much more powerful move that most people skip entirely.
