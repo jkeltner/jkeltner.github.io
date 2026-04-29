@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Zone of Probable Impact"
-date: 2026-04-30
+date: 2026-04-28
 ---
 
 There is so much commentary and analysis about the field of AI these days. Perhaps too much. But I also feel that much of it is exaggerated and hyperbolic. You can generally break down analysts into one of four categories.
