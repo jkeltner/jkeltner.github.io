@@ -371,3 +371,71 @@ h1, h2, h3, h4, h5, h6 {
 a {
   transition: color 0.15s ease;
 }
+
+// ── Newsletter signup (Buttondown) ──────────────────────
+.subscribe {
+  margin-top: 1rem;
+}
+
+.subscribe-label {
+  display: block;
+  font-size: 0.95rem;
+  color: #64748b;
+  margin-bottom: 0.4rem;
+}
+
+.subscribe-row {
+  display: flex;
+  gap: 0.5rem;
+  max-width: 26rem;
+
+  input[type="email"] {
+    flex: 1;
+    min-width: 0;
+    padding: 0.55rem 0.75rem;
+    font-family: $base-font-family;
+    font-size: 0.95rem;
+    color: $text-color;
+    background: #fff;
+    border: 1px solid $border-color-01;
+    border-radius: 6px;
+
+    &:focus {
+      outline: none;
+      border-color: $brand-color;
+      box-shadow: 0 0 0 3px $brand-color-light;
+    }
+  }
+
+  button {
+    padding: 0.55rem 1.1rem;
+    font-family: $heading-font-family;
+    font-size: 0.9rem;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #fff;
+    background: $navy;
+    border: 0;
+    border-radius: 6px;
+    cursor: pointer;
+
+    &:hover,
+    &:focus {
+      background: $brand-color;
+    }
+  }
+}
+
+// After a post: set the signup apart from the article
+.post .subscribe {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 3px solid $gold;
+}
+
+@media screen and (max-width: 500px) {
+  .home-intro .subscribe-row {
+    margin: 0 auto;
+  }
+}
