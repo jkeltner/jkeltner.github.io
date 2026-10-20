@@ -1,0 +1,43 @@
+name: Publish scheduled posts
+
+# Posts committed with a future date stay hidden (Jekyll future: false) until a
+# Pages build runs after that date. Every 15 minutes this checks for posts that
+# just came due and requests a build, then verifies the post URL is live.
+# A failed run means a scheduled post did NOT go live; GitHub emails the failure.
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Request a Pages build even if no post is due"
+        type: boolean
+        default: false
+      dry_run:
+        description: "Only report what's due"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+  pages: write
+
+concurrency:
+  group: publish-scheduled
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Publish due posts
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          FORCE: ${{ inputs.force || 'false' }}
+          DRY_RUN: ${{ inputs.dry_run || 'false' }}
+        run: bash script/publish-due-posts

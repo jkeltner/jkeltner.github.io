@@ -1,0 +1,108 @@
+#!/usr/bin/env bash
+# Publishes future-dated posts once their time arrives.
+#
+# GitHub Pages builds only on push, and Jekyll hides posts dated in the future
+# (future: false). So a post committed ahead of time stays hidden until some
+# build runs after its date. This script, run every 15 minutes by
+# .github/workflows/publish-scheduled.yml, finds posts whose front-matter date
+# passed within the last WINDOW_HOURS but whose URL isn't live yet, requests a
+# Pages build, and waits for each URL to return 200. It exits non-zero if a
+# post doesn't go live, so GitHub emails a workflow failure.
+#
+# Post front matter should carry a full timestamp with offset, e.g.
+#   date: 2026-10-21 10:00:00 -0700
+# A bare date (2026-10-21) is treated as midnight UTC, the way Jekyll reads it.
+#
+# Env: GITHUB_TOKEN, GITHUB_REPOSITORY (set by Actions)
+#      FORCE=true      request a build even if nothing is due
+#      DRY_RUN=true    report what's due, change nothing
+#      NOW=<epoch>     override the clock (testing)
+
+set -euo pipefail
+
+SITE="${SITE:-https://jeffkeltner.com}"
+WINDOW_HOURS="${WINDOW_HOURS:-3}"
+WAIT_SECONDS="${WAIT_SECONDS:-900}"
+POSTS_DIR="${POSTS_DIR:-_posts}"
+NOW="${NOW:-$(date -u +%s)}"
+window_start=$(( NOW - WINDOW_HOURS * 3600 ))
+
+http_status() {
+  local s
+  s=$(curl -s -o /dev/null -w '%{http_code}' -L --max-time 20 "$1?nocache=$(date +%s)") || true
+  echo "${s:-000}"
+}
+
+due_urls=()
+for f in "$POSTS_DIR"/*.md "$POSTS_DIR"/*.markdown; do
+  [ -e "$f" ] || continue
+  base=$(basename "$f")
+  # Cheap pre-filter on the filename date: only look at posts from the last 3 days.
+  fdate=${base:0:10}
+  fdate_ts=$(date -u -d "$fdate" +%s 2>/dev/null) || continue
+  (( fdate_ts >= NOW - 3*86400 && fdate_ts <= NOW + 86400 )) || continue
+
+  raw=$(awk 'NR==1 && $0!="---"{exit} NR>1 && $0=="---"{exit} /^date:/{sub(/^date:[ \t]*/,""); gsub(/["'\'']/,""); print; exit}' "$f")
+  [ -n "$raw" ] || raw="$fdate"
+  post_ts=$(date -u -d "$raw" +%s 2>/dev/null) || { echo "WARN: can't parse date '$raw' in $base"; continue; }
+
+  if (( post_ts > NOW )); then
+    echo "Scheduled: $base goes live at $(date -u -d @"$post_ts" '+%Y-%m-%d %H:%M UTC')"
+    continue
+  fi
+  (( post_ts >= window_start )) || continue
+
+  slug=${base:11}; slug=${slug%.*}
+  url="$SITE/$(date -u -d @"$post_ts" +%Y/%m/%d)/$slug.html"
+  status=$(http_status "$url")
+  if [ "$status" = "200" ]; then
+    echo "Live: $url"
+  else
+    echo "Due, not live yet ($status): $url"
+    due_urls+=("$url")
+  fi
+done
+
+if (( ${#due_urls[@]} == 0 )) && [ "${FORCE:-false}" != "true" ]; then
+  echo "Nothing due."
+  exit 0
+fi
+
+if [ "${DRY_RUN:-false}" = "true" ]; then
+  echo "DRY_RUN: would request a Pages build for: ${due_urls[*]:-(forced)}"
+  exit 0
+fi
+
+echo "Requesting a GitHub Pages build..."
+resp=$(curl -s -w '\n%{http_code}' -X POST \
+  -H "Authorization: Bearer $GITHUB_TOKEN" \
+  -H "Accept: application/vnd.github+json" \
+  "${GITHUB_API_URL:-https://api.github.com}/repos/$GITHUB_REPOSITORY/pages/builds")
+code=$(tail -n1 <<<"$resp")
+echo "Pages build request: HTTP $code $(head -n -1 <<<"$resp" | tr -d '\n')"
+if [[ "$code" != 2* ]]; then
+  echo "::error::Pages build request failed (HTTP $code)."
+  exit 1
+fi
+
+(( ${#due_urls[@]} > 0 )) || exit 0
+
+deadline=$(( $(date -u +%s) + WAIT_SECONDS ))
+pending=("${due_urls[@]}")
+while (( ${#pending[@]} > 0 )); do
+  sleep 30
+  still=()
+  for url in "${pending[@]}"; do
+    if [ "$(http_status "$url")" = "200" ]; then
+      echo "Live: $url"
+    else
+      still+=("$url")
+    fi
+  done
+  pending=("${still[@]+"${still[@]}"}")
+  if (( ${#pending[@]} > 0 && $(date -u +%s) > deadline )); then
+    echo "::error::Still not live after $((WAIT_SECONDS/60)) min: ${pending[*]}"
+    exit 1
+  fi
+done
+echo "All due posts are live."

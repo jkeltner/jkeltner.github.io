@@ -31,6 +31,16 @@ Site available at `http://localhost:4000` after building.
 
 Push to `main` branch. GitHub Pages builds and deploys automatically.
 
+### Scheduling a post
+
+Commit the post to `main` ahead of time with a full timestamp and offset in its front matter:
+
+```yaml
+date: 2026-10-21 10:00:00 -0700   # PDT is -0700, PST is -0800
+```
+
+Jekyll hides it (`future: false`) until a build runs after that time. The **Publish scheduled posts** workflow (`.github/workflows/publish-scheduled.yml`, every 15 min) runs `script/publish-due-posts`: when a post's time has passed in the last 3 hours and its URL isn't live, it requests a Pages build and waits for `https://jeffkeltner.com/YYYY/MM/DD/<slug>.html` to return 200. A failed run means a scheduled post did not go live. Keep publish times before 5 pm Pacific so the URL date (computed in UTC) matches the filename date. Manual run: Actions → Publish scheduled posts → Run workflow (`dry_run` to just report, `force` to rebuild now).
+
 ## Config
 
 `_config.yml` — site title, author info, social links, theme settings, plugins (jekyll-feed, jekyll-seo-tag).

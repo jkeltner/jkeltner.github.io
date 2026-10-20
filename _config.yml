@@ -13,6 +13,10 @@ google_analytics: G-7T0Y1QS1F5
 
 # Build settings
 
+# Posts dated in the future stay hidden until a build runs after their date.
+# .github/workflows/publish-scheduled.yml triggers that build (see CLAUDE.md).
+future: false
+
 # If you clone the Minima repo and build locally, use this setting.
 # theme: minima
 
